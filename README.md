@@ -11,5 +11,5 @@ Appli Mobile : https://realpython.com/mobile-app-kivy-python/
 Voice Recognition : https://realpython.com/python-speech-recognition/
 
 Créer nouvelle branche : git checkout -b new_branch
-                         git push --set-upstream origin TEST
+                         git push --set-upstream origin new_branch
                          faire un commit
