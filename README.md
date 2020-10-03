@@ -2,6 +2,8 @@
 
 Projet de ouf à base de blanquette
 
+https://github.com/axeldinh/ProjetOSS
+
 Mettre a jour : git pull
 
 Commit : git add -A
