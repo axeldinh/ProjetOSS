@@ -1,0 +1,380 @@
+﻿;Film;Scene;Reference;Format;filename
+0;2;Scene;Je vous l'avez dit que vous me le paieriez Payeriez. enfin je vous le dis!;mp3;Oss1_Audio_Je vous l'avez dit que vous me le payerai.mp3
+1;2;Scene;Bonjour, Fayolle. ;mp3;OSS2_Scene_Bonjour Fagnol.mp3
+2;2;Scene;Hum, hum. Finalement cette bande de hippies est plutôt sympathique. Une fois passée la barrière de l'hygiène, s'entend.  Enfin, que voulez-vous, c'est la jeunesse. Tôt ou tard, la vie se chargera de leur couper les cheveux.;mp3;Oss2_Scene_Plutot sympathique cette bande de hippy, une fois passé la barriere de l'hygiene.mp3
+3;2;Scene1;Mais je vous en prie. On a frôlé la catastrophe.;mp3;OSS2_Scene1_On a frolé la catastrophe.mp3
+4;2;Scene1;Les sales jaunes.;mp3;OSS2_Scene1_Les sales jaunes.mp3
+5;2;Scene1;Des chinois en general d'ailleurs;mp3;OSS2_Scene1_Des chinois en general d'ailleurs.mp3
+6;2;Scene1;Oh, ma foi... il ne tient qu'à vous de m'en laisser explorer une partie. Si intime soit-elle.;mp3;OSS2_Scene1_Il ne tiens qu'a vous de m'en laisser explorer une partie.mp3
+7;2;Scene1;Au temps pour moi.;mp3;OSS2_Scene1_Au temps pour moi.mp3
+8;2;Scene1;La fortune de la famille impériale attire bien des convoitises.;mp3;OSS2_Scene1_La forturne de la famille imperiale.mp3
+9;2;Scene1;Ah Je n'ai fait que mon devoir, Comtesse. ;mp3;OSS2_Scene1_Je n'ai fait que mon devoir contesse.mp3
+10;2;Scene1;C'est gentil.;mp3;OSS2_Scene1_C'est Gentil.mp3
+11;2;Scene1;Qui sont ces gens ?;mp3;OSS2_Scene1_Qui sont ces gens .mp3
+12;2;Scene1;Ils sont perdus.;mp3;OSS2_Scene1_Ils sont perdus.mp3
+13;2;Scene1;Ah... Enfin !;mp3;OSS2_Scene1_Ah! Enfin !.mp3
+14;2;Scene1;Mais à l'avenir,vous devriez vous méfiez de M. Li. Et des Chinoisen général, d'ailleurs.;mp3;OSS2_Scene1_A l'avenir vous devriez vous mefiez de Mr Lee.mp3
+15;2;Scene10;Quand je dis n'importe qui, ne le prenez pas pour vous. N'allez pas croire que je n'ai pas confiance par rapport à ce qu'on dit sur les juifs et l'argent, ça n'a rien à voir ?;mp3;OSS2_Scene10_Les juifs et l'argent.mp3
+16;2;Scene10;Bien sûr;mp3;OSS2_Scene10_Bien sur !.mp3
+17;2;Scene10;Je comprends.;mp3;OSS2_Scene10_J'comprends.mp3
+18;2;Scene10;Je ne crois pas, non. C'est l'argent de la France et je ne peux pas me permettre de le laisser à n'importe qui. ;mp3;OSS2_Scene10_Je ne crois pas nan ! C'est l'argent de la France et je ne peux pas me permttre de le laisser à n'importe qui !.mp3
+19;2;Scene10;Oui.;mp3;OSS2_Scene10_OUI ! .mp3
+20;2;Scene10;Qui sont ?;mp3;OSS2_Scene10_Hummm ! Qui sont .mp3
+21;2;Scene10;Ah, ça ? Ah oui... Quelle histoire, ça aussi.;mp3;OSS2_Scene10_ Ah ça ! Quelle histoire ça aussi !.mp3
+22;2;Scene10;Épatant.;mp3;OSS2_Scene10_Épatant !.mp3
+23;2;Scene11;Ah ben voilà ! Merci de le reconnaître. Comme je dis souvent, vous avez forcément une part de responsabilité. Sans vouloir...;mp3;OSS2_Scene11_Ah bah voila ! C'est vrai que vous avez surement une petite part de responsabilité !.mp3
+24;2;Scene11;Bonne nuit à vous aussi.;mp3;OSS2_Scene11_Bonne nuit à vous aussi !.mp3
+25;2;Scene11;Bonsoir.;mp3;OSS2_Scene11_Bonsoir ....mp3
+26;2;Scene11;Pardon ! ;mp3;OSS2_Scene11_Oh Pardon !.mp3
+27;2;Scene11;Je suis désolé pour tout à l'heure. J'ai été affreusement maladroit. Mais ne vous inquiétez pas, je saurai me faire pardonner.;mp3;OSS2_Scene11_Désolé pour tout à l'heure j'ai été affreusement maladroit, mais je saurais me faire pardonner !.mp3
+28;2;Scene11;Je me rends bien compte que j'ai été...;mp3;OSS2_Scene11_Je me rend bien compte que j'ai été ....mp3
+29;2;Scene11;Merci mais je ne me servirai que de la brosse à dents.;mp3;OSS2_Scene11_Merci mais je ne me servirai que de la brosse à dents.mp3
+30;2;Scene11;Bonne nuit, les gars.;mp3;OSS2_Scene11_Bonne nuit les gars !.mp3
+31;2;Scene11;Non ! Je pensais plutôt maladroit.;mp3;OSS2_Scene11_Non ! Je pensais plutôt maladroit !.mp3
+32;2;Scene11;Belle soirée, n'est-ce pas ? ;mp3;OSS2_Scene11_Belle soirée n'est ce pas .mp3
+33;2;Scene11;Merci pour la brosse à dent, Dolores.;mp3;OSS2_Scene11_Merci pour la brosse à dents Dolores !.mp3
+34;2;Scene12;Oh non, C'est dommage. Restons ensemble. Venez voir l'hôtel, au moins.;mp3;OSS2_Scene12_Ah bah non c'est dommage! Venez voir l''hotel au moins !.mp3
+35;2;Scene12;A tantôt, alors.;mp3;OSS2_Scene12_À tantot alors !.mp3
+36;2;Scene12;C'est ridicule. Il y à la piscine, il y a tout. On s'y mettra cet après midi, on en mettra un bon coup et puis voilà, non ?;mp3;OSS2_Scene12_Écoutez c'est ridicule ! On s'y mettra cette apres midi on mettra un bon coup et puis voila !.mp3
+37;2;Scene12;Comme vous voudrez.;mp3;OSS2_Scene12_Comme vous voudrez !.mp3
+38;2;Scene13;Robustes, les têtes de prune.;mp3;OSS2_Scene13_Robuste ! Les tetes de prunes.mp3
+39;2;Scene13;Ces tranches de pamplemousse.;mp3;OSS2_Scene13_Ces tranches de Pamplemousse.mp3
+40;2;Scene13;Les bananes flambées. Avant qu'elles soientflambées. Les bananes, quoi. ;mp3;OSS2_Scene13_Les bananes flambées ....mp3
+41;2;Scene13;Je suis ravi de vous revoir. Je n'ai pas eu l'occasion de vous parlerdepuis cette mission à Gstaad. Je voulais vous en remercier. Très belle mission, très agréable.;mp3;OSS2_Scene13_Je suis ravi de vous revoir ! Je n'ai pas eu l'occasion de vous remercier pour cette mission à Gstaad !.mp3
+42;2;Scene13;Je sais que vous détestez tous ces bouffeurs de riz. ;mp3;OSS2_Scene13_Je sais que vous detestez tout ces bouffeurs de riz.mp3
+43;2;Scene13;Les cœurs d'ananas.;mp3;OSS2_Scene13_Les coeurs d'ananas !.mp3
+44;2;Scene13;Les rondelles de citron.;mp3;OSS2_Scene13_Les rondelles de citrons !.mp3
+45;2;Scene13;Les Allemands... Bah oui. Les Allemands!;mp3;OSS2_Scene13_Les allemand ... Mais oui les allemands !.mp3
+46;2;Scene13;Ils sont récalcitrants, ces faces de quetsche.;mp3;OSS2_Scene13_C'est qu'ils sont recalcitrants ces faces de cuech !.mp3
+47;2;Scene13;Pardon ?;mp3;OSS2_Scene13_Pardon .mp3
+48;2;Scene13;J'espère que vous n'êtes pas trop désappointés, Je n'ai pas pu tuer tous les chintoks. J'en suis désolé. ;mp3;OSS2_Scene13_J'èspere que vous n'etes pas trop desapointés, je n'ai pas pu tuer tout ces Chintoks ! J'en suis désolé !.mp3
+49;2;Scene14;Oui... Je connais cette théorie, oui.;mp3;OSS2_Scene14_Je connais cette theorie.mp3
+50;2;Scene14;Il y a forcément une amicale d'anciens nazis ou un club, une association ? ;mp3;OSS2_Scene14_Il y a forcement une amicale, un club, une association.mp3
+51;2;Scene14;auf wiedersehen;mp3;OSS2_Scene14_Auf Widersen.mp3
+52;2;Scene14;Est-ce qu'il serait par hasard possible, j'ignore si ça existe, de consulter un fichier sur lequel il y aurait les noms et adresses d'anciens nazis établis au Brésil?;mp3;OSS2_Scene14_Le registre dans anciens nazis.mp3
+53;2;Scene14;Soit. Chou blanc, donc.;mp3;OSS2_Scene14_Soit ! Choux blanc donc.mp3
+54;2;Scene14;Oui. Enfin, entre Allemands...;mp3;OSS2_Scene14_Oui mais enfin entre allemands.mp3
+55;2;Scene14;Un mémorial nazi, peut-être ?;mp3;OSS2_Scene14_Memorial nazi peut etre.mp3
+56;2;Scene15;"Comment dit-on ""fromage"" en brésilien ?";mp3;OSS2_Scene15_Comment dit on fromage en bresilien .mp3
+57;2;Scene15;Voici la carte de M. Trumendous.;mp3;OSS2_Scene15_Voici la carte de Mr Tremendous.mp3
+58;2;Scene15;Bill?;mp3;OSS2_Scene15_Bill .mp3
+59;2;Scene15;On a beau dire, mais la France, ça reste quand même le pays des 400 fromages.;mp3;OSS2_Scene15_On a beau dire mais la france ça reste le pays des 400 fromages.mp3
+60;2;Scene15;Bravo, je suis très impressionné. Je vois que nous sommes arrivés aux mêmes conclusions. Avec, toutefois, un léger avantage pour moi.;mp3;OSS2_Scene15_Je suis tres impresionner, avec toutefois un leger avantage pour moi.mp3
+61;2;Scene15;Bah... Je vous en prie. A vous d'abord. Je suis certes agent secret, mais je n'en suis pas moins français.;mp3;OSS2_Scene15_Je suis certes agent secret mais je n'en reste pas moins Français.mp3
+62;2;Scene15;Cheers;mp3;OSS2_Scene15_Cheers.mp3
+63;2;Scene16;Bill, que veulent ces marginaux ? ;mp3;Oss2_Scene16_Bill, que veulent ces marginaux.mp3
+64;2;Scene16;Je vois pas bien l'intérêt de ressembler à une femme.;mp3;Oss2_Scene16_Je ne vois pas bien l'interet de ressembler a une femme.mp3
+65;2;Scene16;Étrange...;mp3;OSS2_Scene16_Etrange....mp3
+66;2;Scene16;Oh, ça va. Je croyais que vous aviez de l'humour. On dit de l'humour juif... Ça n'a pas l'air très rigolo votre humour;mp3;Oss2_Scene16_Il a pas l'air tres rigolo votre humour.mp3
+67;2;Scene16;Ah, d'accord. Pas un gros pipi...;mp3;Oss2_Scene16_Ah d'accord ! Dans le pipi c'est....mp3
+68;2;Scene16;Changer le monde ?  Quelle drôle d'idée ? Il est très bien comme ça, le monde. Pourquoi changer ?;mp3;Oss2_Scene16_Changer le monde, quelle drole d'idee.mp3
+69;2;Scene16;Toi aussi.;mp3;OSS2_Scene16_Ahaha ! Toi aussi !.mp3
+70;2;Scene16;Il a passé plus de vingt ans ici. Il a forcément dû laisser des traces.;mp3;Oss2_Scene16_Il a passé plus de 20 ans ici, il a forcement du laissé des traces.mp3
+71;2;Scene16;Ah bon ? Comment ça peut être de l'humour si ce n'est pas rigolo ?;mp3;Oss2_Scene16_Comment ça peut etre de l'humour si c'est pas rigolo .mp3
+72;2;Scene16;Oh mon dieu ! Vivre dans l'urine c'est affligeant;mp3;Oss2_Scene16_Oh mon dieu ! Vivre dans l'urine c'est affligeant.mp3
+73;2;Scene16;Mais ou va le monde;mp3;OSS2_Scene16_Mais ou va le monde.mp3
+74;2;Scene16;Dans un quoi?;mp3;Oss2_Scene16_Dans un quoi.mp3
+75;2;Scene16;Oh! Cette tignasse !;mp3;Oss2_Scene16_Cette tignasse !.mp3
+76;2;Scene16;Oh mais l'un n'empêche pas l'autre. J'ai toujours fait les deux et jusqu'à présent, je n'ai jamais reçu aucune plainte.;mp3;Oss2_Scene16_J'ai toujours fais les deux et je n'ai jamais recu aucune plaintes.mp3
+77;2;Scene17;Cette ville est absolument magnifique. ;mp3;Oss2_Scene17_Cette ville est absolument maginifique.mp3
+78;2;Scene17;Comment font donc les gens ici pour ne pas salir leurs souliers ?;mp3;Oss2_Scene17_Comment font donc les gens ici pour ne pas salir leurs souliers.mp3
+79;2;Scene17;Très bien, allons-y.;mp3;Oss2_Scene17_Tres bien,allons y.mp3
+80;2;Scene17;Où est Heinrich von Zimmel ? Je répète ma question où est Heinrich von Zimmel ? Et pose ce transistor !;mp3;Oss2_Scene17_LeTransistor.mp3
+81;2;Scene17;Au revoir, les enfants.;mp3;Oss2_Scene17_Au revoir les enfants.mp3
+82;2;Scene17;J'appelle ça la France, mademoiselle. Et pas n'importe laquelle La France du général de Gaulle.;mp3;OSS2_Scene17_LaFranceDuGeneral.mp3
+83;2;Scene17;Et je m'y connais.;mp3;Oss2_Scene17_Et je m'y connais !.mp3
+84;2;Scene17;Une dictature, comme vous y allez. Vous êtes bien sympathique Dolores, mais épargnez-moi vos analyses politiques. Savez-vous seulement ce que c'est qu'une dictature ? Une dictature, c'est quand les gens sont communistes. Déjà. Qu'ils ont froid avec des chapeaux gris et des chaussures à fermeture éclair. C'est ça, une dictature, Dolores.;mp3;Oss2_Scene17_La dictature.mp3
+85;2;Scene17;Complètement crétin, ce gamin.;mp3;Oss2_Scene17_Completement cretin ce gamin.mp3
+86;2;Scene17;Elle est bonne, celle-là, pas de souliers. J'avoue;mp3;Oss2_Scene17_Elle est bonne celle la ! Pas de souliers .mp3
+87;2;Scene18;vous avez l'étoffe d'une mère de famille;mp3;Oss2_Scene18_Vous avez l'etoffe d'une mere de famille.mp3
+88;2;Scene18;Vous savez, les hommes sont rarement des... des... mères de famille.;mp3;Oss2_Scene18_Vous savez, les hommes sont rarement des meres de familles.mp3
+89;2;Scene19;Non, mais oh ! Comment tu parles de ton père ! T'as pas honte ? Qui c'est qui t'a nourri? Jamais je parlerais comme ça de mon père, jamais ! Mon père, il était charron. Je peux te dire que ça filait doux. La mère De la Bath, elle moufetait pas. Les gamins pareil !;mp3;Oss2_Scene19_Non mais oh, comment tu parles de ton pere.mp3
+90;2;Scene19;Heinrich von Zimmel. Voilà mon plan, Dolores simple et efficace. Vous voyez ce rocher ? Amenez le gamin ici. Usez de vos charmes s'il le faut Après, je m'occupe de tout. Ne vous inquiétez pas, ça va bien se passer.;mp3;Oss2_Scene19_Le plan d'OSS117.mp3
+91;2;Scene19;Moi non plus.;mp3;Oss2_Scene19_Moi non plus.mp3
+92;2;Scene19;Peut-être, mais c'était quand même son père.;mp3;Oss2_Scene19_Peut etre, mais c'etait quand meme son pere.mp3
+93;2;Scene2;Tu regardes quoi, Castaing ?;mp3;OSS2_Scene2_Tu regardes quoi Castaing .mp3
+94;2;Scene2;Salut, Corbier.;mp3;OSS2_Scene2_Salut Corbier.mp3
+95;2;Scene2;"Ah! Elle est pas mal, celle-là. Je l'aime bien. ""Comme un lundi"".";mp3;OSS2_Scene2_Elle est pas mal celle la, j'aime bien.mp3
+96;2;Scene2;Bonjour Mayeux ;mp3;OSS2_Scene2_Bonjour Mailleux.mp3
+97;2;Scene2;Et Lefranc ?;mp3;OSS2_Scene2_Et LeFranc .mp3
+98;2;Scene2;Je t'en prie mon vieux.;mp3;OSS2_Scene2_Mais je t'en pris.mp3
+99;2;Scene2;Tu passeras le bonjour à Granville.;mp3;Oss2_Scene2_Tu passeras le bonjour à Granville !.mp3
+100;2;Scene2;Très bien,je vous remercie Ledentu Et vous vous allez bien ?;mp3;OSS2_Scene2_Ledentu, et vous vous allez bien .mp3
+101;2;Scene2;Ahahahaha;mp3;OSS2_Scene2_Ahahahaha.mp3
+102;2;Scene2;Et Borges, il en dit quoi ?;mp3;OSS2_Scene2_Et Bourges il en dit quoi .mp3
+103;2;Scene2;Ce vieux Bernard ! La dernière fois qu'on s'est vu c'était avec Charpon, Leboisset, Labouse et Delanoix. Je crois même qu'il y avait Francard.C'est pour te dire !;mp3;OSS2_Scene2_Ce vieux Bernard ....mp3
+104;2;Scene2;Bonjour Jean-Pierre. Très réussi, méconnaissable.;mp3;OSS2_Scene2_Bonjour JP.mp3
+105;2;Scene2;Bonjour, Dutran.;mp3;OSS2_Scene2_Bonjour Lutran.mp3
+106;2;Scene2;Bien sûr.;mp3;OSS2_Scene2_Bien sûr !.mp3
+107;2;Scene2;Bonjour bonjour;mp3;OSS2_Scene2_Bonjour Bonjour !.mp3
+108;2;Scene2;Tout va bien,Comtesse ?;mp3;OSS2_Scene2_Tout va bien contesse.mp3
+109;2;Scene2;Mais je vous en pris;mp3;OSS2_Scene2_Mais je vous en pris.mp3
+110;2;Scene2;Toujours pas de nouvelle de Picot?;mp3;OSS2_Scene2_Toujours pas de nouvelle de Picot .mp3
+111;2;Scene2;Comme un lundi;mp3;OSS2_Scene2_Comme un lundi.mp3
+112;2;Scene2;Habile !;mp3;OSS2_Scene2_Habile !.mp3
+113;2;Scene2;Poulard !;mp3;OSS2_Scene2_Humm Poulard.mp3
+114;2;Scene2;Bonjour Castaing.;mp3;OSS2_Scene2_Bonjour Castaing.mp3
+115;2;Scene2;Et ça sert à quoi?;mp3;OSS2_Scene2_Et ca sert à quoi .mp3
+116;2;Scene20;Un nazi. Ce n'est pas tout à fait pareil. Tous les nazis n'étaient pas SS, Dolores. Attention aux raccourcis Tout de même.;mp3;Oss2_Scene20_Attention aux racourcis tout de meme.mp3
+117;2;Scene20;Je plaisante, Dolores. Je me doute bien.;mp3;Oss2_Scene20_Je plaisante Dolores, je me doute bien.mp3
+118;2;Scene20;Oui, mais c'est cette attitude de dénigrement systématique. Ça commence par les parents, la famille, ensuite, c'est le drapeau, la patrie.;mp3;Oss2_Scene20_Mais c'est cette attitude de denigrement systematique.mp3
+119;2;Scene20;Vous pensez que c'est mieux ?;mp3;Oss2_Scene20_Vous pensez que c'est mieux .mp3
+120;2;Scene20;Vous ne seriez pas en train de vous débarrasser de moi, par hasard ?;mp3;Oss2_Scene20_Vous seriez pas en train de vous debarraser de moi par hasard .mp3
+121;2;Scene20;Non pas du tout. Il était diplomate. Non, c'était de la... torture psychologique.;mp3;Oss2_Scene20_Non non, il etait diplomate.mp3
+122;2;Scene21;Vous faites des quiches un peu ici ?;mp3;Oss2_Scene21_Vous faites des quiches un peu ici .mp3
+123;2;Scene21;Non merci, j'ai les miennes.;mp3;Oss2_Scene21_Non merci, j'ai les miennes.mp3
+124;2;Scene21;Changer le monde, changer le monde... C'est bien sympathique, mais faudrait déjà vous lever le matin. Je ne sais pas si vous êtes au courant mais le monde vous attend pas. Le monde, il bouge. Et il bouge vite. Vous allez pas tarder à rester sur le carreau. Je vous le dis. Parce que là vous êtes en vacances, mais à la rentrée...;mp3;Oss2_Scene21_Changer le monde.mp3
+125;2;Scene21;Tu peux pas dire ça, tu me déçois. Je devais forcément dire un truc...;mp3;Oss2_Scene21_Tu peux pas me dire ça, tu me deçois.mp3
+126;2;Scene21;OK, admettons. Vous avez pris une année sabbatique, très bien, mais l'année prochaine, vous y avez pensé à ça, l'année prochaine ? C'est pas le monde qui va se plier à vos désirs, les enfants. C'est pas 68, année de la jeunesse. Ça pas comme ça que ça se passe. C'est le vrai monde dehors. Et le vrai monde, il va chez le coiffeur, déjà. Alors, la guitare, les troubadours, tout ça c'est fini.;mp3;Oss2_Scene21_OK,vous etes en année sabatique, mais vous y avez pensé à l'année procahine .mp3
+127;2;Scene22;Euh... J'aime ce qui se passe. Mais on est d'accord, c'est notre secret. Ça reste entre nous, hein ?;mp3;Oss2_Scene22_J'aime ce qu'il se passe, mais ça reste entre nous.mp3
+128;2;Scene22;C'est pas... Vous comprenez ? Parce que les gens sont pas obligés de savoir tout ça. Sorti de son contexte, un doigt dans les fesses ça peut être...;mp3;Oss2_Scene22_Les gens ne sont pas obligés de savoir, parce que sortis de son contexte, un doigt dans les fesses.mp3
+129;2;Scene23;Étrange. ;mp3;Oss2_Scene23_Etrange.mp3
+130;2;Scene23;Impeccable. J'ai passé une soirée somme toute très tranquille. On a mangé, j'ai pris du SVP et j'ai dormi comme un bébé.;mp3;Oss2_Scene23_Impeccable, une soirée tranquille, j'ai mangé, pris du svp et dormis comme un bébé.mp3
+131;2;Scene23;Je vois pas bien l'intérêt de ressembler à un homme ? Curieux.;mp3;Oss2_Scene23_Je ne vois pas l'interet de ressembler a un homme, curieux.mp3
+132;2;Scene23;Pourquoi vous n'en portez pas ?;mp3;Oss2_Scene23_Pourquoi vous n'en portez pas .mp3
+133;2;Scene23;Ce qui va, c'est que je suis là.;mp3;Oss2_Scene23_Ce que va, c'est que je suis la.mp3
+134;2;Scene24;Déjà, c'est une religion qui interdit les saucisses, il me semble ?;mp3;Oss2_Scene24_Bah deja c'est une religion qui interdit les saucisses il me semble.mp3
+135;2;Scene24;Quoi que... Attendez c'est lesquels les Chinois qui étaient alliés aux nazis ?;mp3;Oss2_Scene24_C'est lesquels les chinois qui etaient alliés au nazis .mp3
+136;2;Scene24;Que se passe-t-il ? ;mp3;Oss2_Scene24_Mais que se passe t'il .mp3
+137;2;Scene24;Vous n'aimez pas les hommes ?;mp3;Oss2_Scene24_Vous n'aimez pas les hommes .mp3
+138;2;Scene24;C'est plutôt vous qui avez l'air vexé.;mp3;Oss2_Scene24_Plutot vous qui avez l'air vexée.mp3
+139;2;Scene24;Vous savez, de vous à moi, c'est peut-être ça qui agace un peu les gens. Le côté : je suis juif donc j'ai raison sur tout.;mp3;Oss2_Scene24_C'est peut etre ça qui agance les gens aussi, le coté je suis juive j'ai raison sur tout.mp3
+140;2;Scene24;Excusez-moi mais c'est quand même... Ça fait un peu Jacques-a-dit a dit pas de charcuterie. Vous ne trouvez pas ?;mp3;Oss2_Scene24_Bah ça fait un peu Jacquesadit a dit pas de charcuterie.mp3
+141;2;Scene24;C'est parce que je ne suis pas juif, c'est ça ?;mp3;Oss2_Scene24_C'est parce que je ne suis pas juif, c'est ça .mp3
+142;2;Scene24;Je vous en prie. Vous êtes aimable.;mp3;Oss2_Scene24_Mais je vous en prie, vous etes aimable.mp3
+143;2;Scene24;Vous jouez sur les mots Dolores. ;mp3;Oss2_Scene24_Vous jouez sur les mots Dolores.mp3
+144;2;Scene24;Les Japonais, c'est ça. Au temps pour moi. J'avais un embryon de piste, mais non. Si nous avons à faire à des Chinois de Chine, ça ne marche plus.;mp3;Oss2_Scene24_Si nous avons affaire a des chinois de chine ça ne marche plus.mp3
+145;2;Scene24;Vous avez une religion qui est tellement...;mp3;Oss2_Scene24_Je ne sais pas vous avez une religion qui est tellement.mp3
+146;2;Scene24;Et rien. Faisons comme si c'était normal, après tout. Pas de saucisses, pas d'alcool, les femmes voilées.;mp3;Oss2_Scene24_Tres bien faison comme si c'etait normal apres tout, pas de saucisses, pas d'alcool, les femmes voilées .mp3
+147;2;Scene24;Je comprends. A ce propos, je voulais vous dire... Je sais que vous êtes très admirative de moi, de ma carrière. Vous connaissez ma vie, vous connaissez mon métier. Vous savez que j'ai toujours été un rempart a la barbarie. Malheureusement, tout cela a un prix. Dolores, je vais être un petit peu brutal, mais... Si jamais il devait se passer quelque chose entre nous, je... Il m'est impossible de m'engager avec une femme. Avec moi, les histoires d'amour ne s'écrivent pas dans le temps, ce sont... des histoires courtes, compactes, passionnelles. Je ne sais pas vivre autrement Dolores. D'aucuns ont des aventures. Je suis une aventure. Et je me devais de vous en prévenir.;mp3;Oss2_Scene24_Je suis une aventure.mp3
+148;2;Scene25;D'accord. Mais la prochaine fois que tu changes de monde, fais attention aux crocodiles.;mp3;Oss2_Scene25_La prochaine fois que tu changes le monde, fait attention aux crocodiles.mp3
+149;2;Scene25;Commence par remettre ton slip, tu veux ?;mp3;Oss2_Scene25_Commence par remettre ton slip tu veux .mp3
+150;2;Scene25;Je vois qu'en effet, ton monde change bien vite.;mp3;Oss2_Scene25_Je vois qu'en effet ton monde change bien vite.mp3
+151;2;Scene25;Qu'est-ce qu'il fout lui?;mp3;Oss2_Scene25_Qu'est ce qu'il fout lui .mp3
+152;2;Scene25;Il va attraper plein de microbes. C'est tout ce qu'il va gagner.;mp3;Oss2_Scene25_Il va s'attraper plein de microbes, c'est tout ce qu'il va gagner.mp3
+153;2;Scene25;Dolores, soyez gentille. Arrangez-nous une petite table. Essayez de nous faire un truc mignon;mp3;Oss2_Scene25_Dolores soyez gentille, arrangez nous une petite table, essayez de faire un truc mignon.mp3
+154;2;Scene25;Oui, mais pour le moment, nous sommes bloqués. ;mp3;Oss2_Scene25_Oui, mais pour le moment nous sommes bloqués.mp3
+155;2;Scene25;Là, je viens de tuer un croco. Si vous voulez qu'on travaille d'égal à égal, faudrait vous y mettre. Vous pouvez au moins vous occupez du manger;mp3;Oss2_Scene25_Moi je viens de tuer un croco.mp3
+156;2;Scene26;Écoutez, mon petit... J'ai fait mon boulot, moi.;mp3;Oss2_Scene26_Bon ecoutez mon petit, j'ai fait mon boulot moi.mp3
+157;2;Scene26;C'est peut-être que j'ai un peu de mal à voir un lieutenant-colonel de l'armée israéliene flirter avec un fils de nazi. Excusez-moi d'avoir un peu de morale.;mp3;Oss2_Scene26_C'est peut etre parce que j'ai un peu de mal a voir un lieutenant de l'armée israelienne flirter avec un fils de nazi, excusez moi d'avoir encore un peu de moral .mp3
+158;2;Scene26;Je sais pas. Débrouillez-vous. Faites simple. Personne ne va vous juger.;mp3;Oss2_Scene26_Debrouillez vous, faites simple, personne ne va vous juger.mp3
+159;2;Scene26;Non merci ! J'ai besoin de vitamines, moi.;mp3;Oss2_Scene26_Non merci ! Jai besoin de vitamines moi .mp3
+160;2;Scene26;Doucement. C'est la peau de crocodile, ça met du temps à rôtir, c'est comme ça. ;mp3;Oss2_Scene26_Doucement ! c'est la peau de crocodile, ça met du temps a rotir c'est comme ça.mp3
+161;2;Scene26;Oui, évidemment. C'est moi qui suis ridicule.;mp3;Oss2_Scene26_Evidemment, c'est moi qui suis ridicule.mp3
+162;2;Scene26;Bravo ! Très drôle! Bravo!;mp3;Oss2_Scene26_Bravo ! Tres drole, bravo!.mp3
+163;2;Scene26;Mais... ça cuit pas, cette connerie. Pourquoi ça cuit pas ?;mp3;Oss2_Scene26_Mais ça cuit pas cette connerie! Mais pourquoi ça cuit pas .mp3
+164;2;Scene27;"Ça ne prenait pas beaucoup plus de temps ! Le plus difficile, c'est la partie pédalo. C'est pas la partie canard. La partie canard, c'est un bec,
+un col vert... Enfin n'en parlons plus. ";mp3;Oss2_Scene27_Ça ne prenais pas beaucoup plus de temps! Ce qui est le plus difficile c'est la partie pedalo, pas la partie canard.mp3
+165;2;Scene28;Bien, il est temps de se mettre au travail. Rendez-vous dans une demi-heure dans le hall, en costume. ;mp3;Oss2_Scene28_Bien! Au travail ! Rendez-vous dans 30 minutes dans le hall, en costume.mp3
+166;2;Scene28;En revanche pour les drinks, vous inquiétez pas, c'est payé.;mp3;Oss2_Scene28_Vous inquietez pas, c'est payé.mp3
+167;2;Scene28;Tu as raison, c'est problématique. À moins qu'on y aille déguisés. Ce qui en plus, peut être amusant.;mp3;Oss2_Scene28_À moins qu'on y aille deguisés, ce qui peut etre amusant !.mp3
+168;2;Scene29;"Voilà... C'est pour ça, je me suis dit: ""Ça, c'est pour Armand."" ";mp3;Oss2_Scene29_Et c'est pour ça que je me suis dit- ça c'est pour Armand !.mp3
+169;2;Scene29;Voilà, cadeau...  de Noël !;mp3;Oss2_Scene29_Voila ! Cadeau, de Noël !.mp3
+170;2;Scene29;Oui. Mais si. C'est rigolo, hein ?;mp3;Oss2_Scene29_Oh si, ça c'est rigolo !.mp3
+171;2;Scene29;"Non j'ai dit ""cadeau de Noël"". C'est par rapport à mon prénom...";mp3;Oss2_Scene29_C'est parce que c'est par rapport a mon prenom.mp3
+172;2;Scene29;Rire MYTHIQUE;mp3;Oss1_Scene29_Rire MYTHIQUE.mp3
+173;2;Scene29;Ça m'est venu comme ça. Tout d'un coup, je me suis souvenu que je m'appelais Noël, et alors c'est sorti tout seul, les boules de Noël. En plus, je crois bien que je lui ai montré mon bazar en même temps. ;mp3;Oss2_Scene29_Je me suis souvenu que je m'appelais Noël et c'est sortit tou seul, je crois meme que je lui ai montré mon bazard en meme temps.mp3
+174;2;Scene29;Je vous rappelle. Au revoir.;mp3;Oss2_Scene29_Je vous rappelle ! Au revoir !.mp3
+175;2;Scene29;Je propose qu'on fasse une trêve. Nos deux pays sont amis, je vous rappelle. Faisons un effort.;mp3;Oss2_Scene29_Je propose qu'on fasse une treve, nos deux amis sont amis je vous le rappelle.mp3
+176;2;Scene29;Bon... Armand, je vous laisse. Il y a un nazi dans l'hôtel. Ah ben non, c'est Heinrich, c'est mon ami. ;mp3;Oss2_Scene29_Je vous laisse il y a un nazi dans la salle. Ah non c'est mon amis Heinrich.mp3
+177;2;Scene29;Je couds. ;mp3;Oss2_Scene29_Je couds !.mp3
+178;2;Scene29;Ah oui, ça vient de chez le loueur, d'accord. Je me disais aussi.;mp3;Oss2_Scene29_Ah oui ça vient de chez le loueur, je me disais aussi.mp3
+179;2;Scene29;Oui... Il faut absolument que j'appelle Armand.;mp3;Oss2_Scene29_Faut absolument que j'appelle Armand !.mp3
+180;2;Scene29;M'oui Sinon... y a aussi les boules.;mp3;Oss2_Scene29_Sinon y'a aussi les boules !.mp3
+181;2;Scene3;S'il s'agit de faire une echange;mp3;OSS2_Scene3_S'il s'agit de faire une echange.mp3
+182;2;Scene3;Ma foi, comme un lundi. Frais dans la matiné, soleil l'après-midi. La recette des sports d'hiver réussis.;mp3;OSS2_Scene3_Comme un lundi... la recette des sports d'hivers reussis.mp3
+183;2;Scene3;Nouveau ?;mp3;OSS2_Scene3_Nouveau .mp3
+184;2;Scene3;Noël Flantier... Je vais lui faire un courrier;mp3;OSS2_Scene3_Je vais lui faire un courrier.mp3
+185;2;Scene3;Ben v'là autre chose !;mp3;OSS2_Scene3_Bah voila autre chose.mp3
+186;2;Scene3;Qui s'occupe de trouver les noms au bureau ?;mp3;OSS2_Scene3_Mais qui s'occupe de trouver les noms au bureau .mp3
+187;2;Scene3;Il s'agit de l'en empêcher ?;mp3;Oss2_Scene3_Il s'agit de l'en empecher.mp3
+188;2;Scene3;Mais enfin Armand, Le général de Gaulle n'a t-il pas dit que toute la France avait été résistante.;mp3;OSS2_Scene3_Le General DeGaulle n'a t-il pas dit que toute la France avait étée resistante .mp3
+189;2;Scene3;Douce chanson que vous me chantez là Armand.;mp3;OSS2_Scene3_Douce chanson que vous me chantez là Armand.mp3
+190;2;Scene3;Et pourquoi moi Armand? S'il ne s'agit que de faire un échange, les P&T font ça très bien.;mp3;OSS2_Scene3_Et pourquoi moi Armand .mp3
+191;2;Scene3;Noel Flantier ;mp3;OSS2_Scene3_Noel Flantier .mp3
+192;2;Scene3;Je comprend que ce ne soit qu'un microfilm. Elle doit être bien courte sa liste.;mp3;OSS2_Scene3_Elle doit etre bien courte sa liste.mp3
+193;2;Scene3;Bonjour, Armand.;mp3;OSS2_Scene3_Bonjour Armand !.mp3
+194;2;Scene3;Habile.;mp3;OSS2_Scene3_Habile.mp3
+195;2;Scene3;Noël Flantier ?;mp3;OSS2_Scene3_Noel Flantier.....mp3
+196;2;Scene3;Je comprends.Dans ce cas.;mp3;OSS2_Scene3_Je comprend... Dans ce cas!.mp3
+197;2;Scene3;Procédure habituelle ?;mp3;OSS2_Scene3_Procedure habituelle .mp3
+198;2;Scene30;C'est parce qu'elle est juive.;mp3;Oss2_Scene30_C'est parce qu'elle est juive.mp3
+199;2;Scene30;Allez, n'y pensez plus. C'est jamais qu'un costume nazi, après tout. ;mp3;Oss2_Scene30_Allez n'y pensez plus ! Ce n'est qu'in costume nazi apres tout !.mp3
+200;2;Scene31;Pas sûr. Ne voyez pas le mal partout. Ils ont peut-être tous eu la même idée.;mp3;Oss2_Scene31_Pas sûr ! Ils ont peut etre eu tous la meme idée.mp3
+201;2;Scene31;Possible. Plus difficile à croire.;mp3;Oss2_Scene31_Possible, mais difficile a croire.mp3
+202;2;Scene32;Et si le 5e Reich était plutôt celui... de l'amour ?;mp3;Oss2_Scene32_Et si le 5eme Reich etait plutot celui de l'amour .mp3
+203;2;Scene32;Que signifie cette réunion sordide ? L'avènement du 4e Reich ?;mp3;Oss2_Scene32_Que signifie cette réunion sordide  L'avenement du 4eme Reich .mp3
+204;2;Scene32;Pour l'instant je suis en phase d'analyse.;mp3;Oss2_Scene32_Pour l'instant je suis en phase d'analyse.mp3
+205;2;Scene32;Au moins il ne nous a pas encore vus.;mp3;Oss2_Scene32_Au moins il ne nous a pas encore vu.mp3
+206;2;Scene32;Il ne connaît pas ma vraie identité.;mp3;Oss2_Scene32_Au moins il ne connais pas ma vraie identité.mp3
+207;2;Scene32;Ça, alors ! Heinrich ? Un postiche ?;mp3;Oss2_Scene32_Ça alors! Heinrich  Un postich.mp3
+208;2;Scene32;Utopiste.;mp3;Oss2_Scene32_Utopiste.mp3
+209;2;Scene32;Dolores. Je vous dois des excuses. Il semblerait que vous ayez raison. Que nous soyons pris au piège.;mp3;Oss2_Scene32_Dolores, je vous doit des excuses, il semblerait que nous soyons pris au piege.mp3
+210;2;Scene32;J'espèrais faire rêver ces nazis, je n'ai récolté que risée et quolibet.;mp3;Oss2_Scene32_J'esperais faire rever ces nazis, je nai recolté que risées et quolibets.mp3
+211;2;Scene32;Venez, essayons de ne pas nous faire remarquer.;mp3;Oss2_Scene32_Essayons de ne pas nous faire remarqués.mp3
+212;2;Scene32;Bon, bien sûr, je... je vois bien ce qui vous plaît dans le nazisme. D'ailleurs, qui pourrait vous jeter la pierre ? Moi-même, parfois, il m'arrive de me fâcher. ;mp3;Oss2_Scene32_Je vois bien ce qui vous plait dans le nazisme, mais qui pourrais vous jeter la pierre, moi meme il m'arrive de me facher.mp3
+213;2;Scene33;Qu'allez-vous faire, von Zimmel ?;mp3;Oss2_Scene33_Qu'allez vous faire Von Zimmel .mp3
+214;2;Scene33;Vous vous moquez.;mp3;Oss2_Scene33_Vous vous moquez.mp3
+215;2;Scene33;Vous perdez votre temps, von Zimmel ! Je ne vous dirai rien.;mp3;Oss2_Scene33_Vous perdez votre temps Von Zimmel, je ne vous direz rien.mp3
+216;2;Scene33;Charmant programme !;mp3;Oss2_Scene33_Charmand programme.mp3
+217;2;Scene33;Mon Dieu ! Ça y est, je m'en souviens. ;mp3;Oss2_Scene33_Ça y est, je m'en souviens !.mp3
+218;2;Scene33;Bingo ! Je crois que j'ai ma petite idée;mp3;Oss2_Scene33_Bingo ! Je crois que j'ai ma petite idée.mp3
+219;2;Scene33;Pour moi, vous serez toujours Carlotta, Carlotta.;mp3;Oss2_Scene33_Et bien pour moi vous serez toujours Carlota! Carlota!.mp3
+220;2;Scene33;J'ai vu, je sais qui c'est, mais je dirai rien.;mp3;Oss2_Scene33_J'ai vu, je sais qui c'est mais je dirais rien.mp3
+221;2;Scene33;Vous m'inspirez un sentiment de déjà-vu, professeur. Vos vieilles recettes, vos bureaux secrets, vos croix gammées, vos grottes de nazis tout ça est d'un banal.;mp3;Oss2_Scene33_Vous m'insperez un sentiment de deja vu professeur.mp3
+222;2;Scene33;Vous avez raison ! Allons-y Dolores !;mp3;Oss2_Scene33_Vous avez raison ! Allons-y Dolores !.mp3
+223;2;Scene33;Tiens, un chauve ? Chauve qui peut.;mp3;Oss2_Scene33_Tiens, un chauve! Chauve qui peut .mp3
+224;2;Scene33;Humour nazi. Aucun intérêt.;mp3;Oss2_Scene33_Humour nazi, aucun interet.mp3
+225;2;Scene33;Hitler ! Je déteste ce type.;mp3;Oss2_Scene33_Hitler ! Je deteste ce type !.mp3
+226;2;Scene33;Comment se fait-il que je ne m'en souvienne pas ?;mp3;Oss2_Scene33_Comment se fait il que je ne m'en souvienne pas .mp3
+227;2;Scene33;Vous pouvez y aller Von Zimmel, j'en ai vu d'autres !;mp3;Oss2_Scene33_Vous pouvez y aller Von Zimmel, j'en ai vu d'autres.mp3
+228;2;Scene33;Carlotta. Carlotta. Carlotta.;mp3;Oss2_Scene33_Carlota ! Carlota ! Carlota !.mp3
+229;2;Scene33;Pourquoi moi? Mon costume, chiens fascistes ! Vous ne respectez donc rien !;mp3;Oss2_Scene33_Pourquoi moi  Chien fasciste, vous ne respectez vraiment rien.mp3
+230;2;Scene33;À mon avis, on a une bonne demi-heure devant nous. C'est largement suffisant.;mp3;Oss2_Scene33_A mon avis on a une bonne demi-heure devant nous, c'est largement suffisant.mp3
+231;2;Scene33;C'est pas moi.;mp3;Oss2_Scene33_C'est pas moi !.mp3
+232;2;Scene33;Carlotta. C'est donc ça, quelque chose de plus confortable ?;mp3;Oss2_Scene33_Carlota ! C'est donc ça quelque chose de plus comfortable .mp3
+233;2;Scene33;Ne vous inquiétez pas Dolores. J'ai été maladroit tout à l'heure Mais je vais nous sortir de là.;mp3;Oss2_Scene33_Ne vous inquietez pas Dolores, j'ai été maladroit tout à l'heure mais je vais nous sortir de la.mp3
+234;2;Scene34;La partie n'est peut-être pas encore perdue.;mp3;Oss2_Scene34_La partie n'est peut etre pas encore perdue.mp3
+235;2;Scene34;Évidemment c'est un arc de bébé!;mp3;Oss2_Scene34_Evidemment, c'est in arc de bébé !.mp3
+236;2;Scene34;Je comprends pas ce qui s'est passé là.;mp3;Oss2_Scene34_Je ne comprend pas ce qui s'est passé la.mp3
+237;2;Scene35;C'est bien simple, j'ai l'impression d'avoir trouvé mon double féminin. ;mp3;Oss2_Scene35_C'est bien simple, j'ai l'impression d'avoir trouvé mon double feminin.mp3
+238;2;Scene35;Comment ça non? Je comprends pas.;mp3;Oss2_Scene35_Comment ça non  Je ne comprend pas .mp3
+239;2;Scene35;Je m'habille mal ? ;mp3;Oss2_Scene35_Je m'habille mal .mp3
+240;2;Scene35;Il fait très chaud, non ?;mp3;Oss2_Scene35_Il fait tres chaud non .mp3
+241;2;Scene35;Vous me plaisez, Dolores. Beaucoup. Vous savez ce que j'aimerais...;mp3;Oss2_Scene35_Vous me plaisez Dolores, beaucoup.mp3
+242;2;Scene35;Bien sûr !;mp3;Oss2_Scene35_Bien sûr !.mp3
+243;2;Scene35;Regardez ! Ils se sont arrêtés. Panne d'essence. J'en étais sûr. C'est le problème avec les Mercedes. Ha, ha, ha !;mp3;Oss2_Scene35_Panne d'essence, j'en etais sûr ! C'est le probleme avec les mercedes ahaha.mp3
+244;2;Scene35;C'est plaisant de vous voir sourire. C'est vrai vous avez un sourire charmant. On a déjà dû vous le dire.;mp3;Oss2_Scene35_C'est plaisant de vous voir sourir. Non vraiment vous avez un sourire charmant.mp3
+245;2;Scene35;Je vous faisais un compliment Dolores.;mp3;Oss2_Scene35_Je vous faisais un compliment Dolores.mp3
+246;2;Scene35;Vous savez ce que j'aimerais...;mp3;Oss2_Scene35_Vous savez ce que j'aimerais .mp3
+247;2;Scene35;Bravo.Vous conduisez comme un homme.;mp3;Oss2_Scene35_Bravo vous conduisez comme un homme.mp3
+248;2;Scene35;Justement, c'est ça que je ne comprends pas. Expliquez-moi. Je suis quand même un rempart contre la barbarie, un symbole de...;mp3;Oss2_Scene35_Oui justement c'est ça que ne comprend pas ! Je suis un rempart a la barbarie.mp3
+249;2;Scene35;J'en fais mon affaire.;mp3;Oss2_Scene35_J'en fais mon affaire.mp3
+250;2;Scene35;Et comment !;mp3;Oss2_Scene35_Hummm, et comment !.mp3
+251;2;Scene35;Vous êtes déterminée, vous êtes courageuse, vous n'avez jamais flanché. Vous n'avez jamais détourné le regard. Vous êtes intrépide, vous êtes jolie, vous êtes élégante. ;mp3;Oss2_Scene35_Hubert complimente Dolores.mp3
+252;2;Scene35;Vous me bluffez, Dolores. ;mp3;Oss2_Scene35_Vous me bluffez Dolores.mp3
+253;2;Scene36;Vous montez ?;mp3;Oss2_Scene36_Vous montez .mp3
+254;2;Scene36;Où suis-je ?;mp3;Oss2_Scene36_Ou suis-je .mp3
+255;2;Scene36;Très bien, merci.;mp3;Oss2_Scene36_Tres bien merci !.mp3
+256;2;Scene36;Ah ? C'est fâcheux.;mp3;Oss2_Scene36_Ah! Facheux !.mp3
+257;2;Scene36;Vous n'auriez pas quelques vêtements de rechange ?;mp3;Oss2_Scene36_Vous n'auriez pas quelque vetements de rechange .mp3
+258;2;Scene36;Vous savez pas où sont mes vêtements ?;mp3;Oss2_Scene36_Vous savez pas où sont mes vetements .mp3
+259;2;Scene37;On se donne rendez-vous au bureau de Bill Trumendous.;mp3;Oss2_Scene37_On se donne rendez-vous au bureau de Bill Tremendous.mp3
+260;2;Scene37;Ça sonne.;mp3;Oss2_Scene37_Ça sonne .mp3
+261;2;Scene37;À ce propos, où est-ce que je pourrais trouver une voiture ?;mp3;Oss2_Scene37_À ce propos, ou est ce que je pourrais trouver une voiture .mp3
+262;2;Scene37;C'est très urgent.;mp3;Oss2_Scene37_C'est tres urgent.mp3
+263;2;Scene37;Maria Joao, vous venez de donner un sérieux coup de pouce à la France. Je ne l'oublierai pas ;mp3;Oss2_Scene37_Vous venez de donner un serieux coup de pouce a la France, je ne l'oublierai pas .mp3
+264;2;Scene37;Je peux téléphoner?;mp3;Oss2_Scene37_Je peux telephoner .mp3
+265;2;Scene37;Excusez moi ;mp3;Oss2_Scene37_Excusez moi .mp3
+266;2;Scene37;Merveilleux. Ce n'est pas le dernier cri, mais enfin cela fera amplement l'affaire.;mp3;Oss2_Scene37_Merveilleux ! C'est pas le dernier cris mais ça fera amplement l'affaire.mp3
+267;2;Scene37;Du pur gribouillage. J'ai l'impression que tout ça ne veut rien dire;mp3;Oss2_Scene37_Pur gribouillage, j'ai l'impression que tout cela ne veut rien dire.mp3
+268;2;Scene37;Merci.;mp3;Oss2_Scene37_Merci !.mp3
+269;2;Scene37;Oui, sans doute !;mp3;Oss2_Scene37_Oui, sans doute !.mp3
+270;2;Scene37;Bien, la situation est clarifiée. ;mp3;Oss2_Scene37_Bien la situation est clarifiée.mp3
+271;2;Scene37;C'est vrai ? Vous vous êtes inquiétée ?;mp3;Oss2_Scene37_C'est vrai  Vous vous etes inquietée .mp3
+272;2;Scene37;Ha, c'est gentil. ;mp3;Oss2_Scene37_Han, c'est gentil !.mp3
+273;2;Scene37;Avec un peu de chance...;mp3;Oss2_Scene37_Avec un petit peu de chance.mp3
+274;2;Scene37;Vous avez eu Carlotta ?;mp3;Oss2_Scene37_Vous avez eu Carlota .mp3
+275;2;Scene37;Je l'appelle tout de suite;mp3;Oss2_Scene37_Je l'appelle tout de suite.mp3
+276;2;Scene38;Attention Bill, derrière toi, un Chinois.;mp3;Oss2_Scene38_Attention Bill, derriere toi un Chinois.mp3
+277;2;Scene38;Oh, Bill ! Tu m'as fichu une de ces trouilles, mon vieux. ;mp3;Oss2_Scene38_Ah Bill! Tu m'as fichu une de ces trouilles mon vieux .mp3
+278;2;Scene38;Habile, Bill.;mp3;Oss2_Scene38_Habile Bill !.mp3
+279;2;Scene38;Libère-la, Bill. Je te rappelle que nos deux pays sont amis.;mp3;Oss2_Scene38_Libere la Bill, je te rappelle que nos pays sont amis.mp3
+280;2;Scene38;Je vous en conjure Carlotta. Réfléchissez.;mp3;Oss2_Scene38_Je vous en conjure Carlota, reflechissez.mp3
+281;2;Scene38;Voilà.;mp3;Oss2_Scene38_Voila !.mp3
+282;2;Scene38;Que se passe t-il Bill?;mp3;Oss2_Scene38_Que se passe t'il Bill .mp3
+283;2;Scene38;Comme Israël.;mp3;Oss2_Scene38_Comme Israël .mp3
+284;2;Scene38;Bill, tu n'es pas bien ? Qu'est-ce que tu fabriques ?;mp3;Oss2_Scene38_Bill tu n'est pas bien  Mais qu'est ce que tu fabriques .mp3
+285;2;Scene38;Je vous promet que si vous nous aidez, je m'engage à intervenir personnellement auprès du premier ministre de la France, M. Georges Pompidou.;mp3;Oss2_Scene38_Je vous promet que si vous nous aidez, je m'engage personnalement a en praler au premier minsitre de la France, Monsieur Georges Pompidou .mp3
+286;2;Scene38;Qu'est-ce que tu insinues ?;mp3;Oss2_Scene38_Qu'est ce que tu insinue .mp3
+287;2;Scene38;Entre les chasseurs de Nazis et les frères de ce pauvre homme vous n'aurez aucun répit jusqu'à la fin de vos jours.;mp3;Oss2_Scene38_Entre les chasseurs de nazis et les freres de ce pauvre homme vous n'aurez aucun repis jusqu'a la fin de vos jours.mp3
+288;2;Scene38;C'est vrai ? Ca fait deux fois que vous me dites des choses gentilles.;mp3;Oss2_Scene38_Ça fait deux fois que vous me dites des choses gentilles.mp3
+289;2;Scene38;Pour que l'on trouve une solution à l'amiable. Et que l'on mette tout en oeuvre au niveau international, et ça peut aller très vite, pour que les nazis aient un pays à eux. ;mp3;Oss2_Scene38_Pour qu'on trouve une solution a l'amiable, et ça peut aller tres vite, pour que les nazis ait un pays a eux.mp3
+290;2;Scene38;Mais pourquoi tu protégerais un SS ? Tu es Américain tu es contre les nazis.;mp3;Oss2_Scene38_Mais pourquoi protegerai tu un SS  Tu es American , tu es contre les nazis.mp3
+291;2;Scene38;Bill? ;mp3;Oss2_Scene38_Bill .mp3
+292;2;Scene38;Dolores ?;mp3;Oss2_Scene38_Dolores .mp3
+293;2;Scene38;Ravi de vous revoir, Dolores.;mp3;Oss2_Scene38_Ravis de vous revoir Dolores.mp3
+294;2;Scene39;On a passé une nuit ensemble ? Ne dites pas ça. On a l'impression qu'on a...;mp3;Oss2_Scene39_On a passé une nuit ensemble  Ne dites pas ça on a l'impression que .mp3
+295;2;Scene39;Serpent ! Je ne mange pas de ce pain là !;mp3;Oss2_Scene39_Serpent, je ne mange pas de ce pain là !.mp3
+296;2;Scene39;On se connaît, non ?;mp3;Oss2_Scene39_On se connait non .mp3
+297;2;Scene39;Et là, tu... Vous faites quoi ?;mp3;Oss2_Scene39_Et là vous faites quoi .mp3
+298;2;Scene4;Qu'est-ce que c'est que ce guet-apens ?;mp3;OSS2_Scene4_Qu'est ce que c'est que ce get-apens .mp3
+299;2;Scene4;Ahahahah;mp3;OSS2_Scene4_Ahahahah(encore).mp3
+300;2;Scene4;Plaît-il ?;mp3;OSS2_Scene4_Plaît-il .mp3
+301;2;Scene4;Mais non, je vous jure que non j'ai même longtemps vécu en Cochinchine.;mp3;OSS2_Scene4_Mais non, j'ai deja vecu en Cochinchine.mp3
+302;2;Scene4;Pas du tout.;mp3;OSS2_Scene4_Mais non pas du tout.mp3
+303;2;Scene4;Ah, Gstaad ? Gstaad...;mp3;OSS2_Scene4_Ahhhh Gstaad .... gstaad.mp3
+304;2;Scene4;Bill Trumendous ! Ce vieux Bill! En plein dans le dos.;mp3;OSS2_Scene4_Bill Tremendous, ce vieux Bill.mp3
+305;2;Scene4;Abragado. Abragado...;mp3;OSS2_Scene4_Obrigado...obrigado.mp3
+306;2;Scene40;C'est terminé Von Zimmel, tout le monde est mort.;mp3;Oss2_Scene40_C'est terminé Von Zimmel, toue le monde est mort.mp3
+307;2;Scene40;Pas si on l'empêche de sauter du bout du bras du Corcovado.;mp3;Oss2_Scene40_Pas si on l'empeche de sauter du bout du bras du Corcovado .mp3
+308;2;Scene40;Pas cette fois-ci.;mp3;Oss2_Scene40_Pas cette fois ci .mp3
+309;2;Scene40;Chacun doit   vaincre ses démons Dolores. Vous, c'est les nazis. Moi, c'est le trapèze.;mp3;Oss2_Scene40_Chacun doit vaincre ses demons Dolores, vous c'est les nazis, moi c'est le trapeze.mp3
+310;2;Scene40;Cet homme est désespéré.;mp3;Oss2_Scene40_Cet homme est désespéré.mp3
+311;2;Scene40;Laissez-moi faire.;mp3;Oss2_Scene40_Laissez moi faire.mp3
+312;2;Scene40;Magnifique. C'est drôlement beau ce qu'il dit. Beau et terrible à la fois d'ailleurs.;mp3;Oss2_Scene40_Magnifique ! Drolement beau ce qu'il dit, beau et terrible a la fois d'ailleurs.mp3
+313;2;Scene40;Vous avez raison. Je crois qu'il est sincère. ;mp3;Oss2_Scene40_Vous avez raison, je crois qu'il est sincère.mp3
+314;2;Scene40;Joyeux, Noël.;mp3;Oss2_Scene40_Joyeux Noël !.mp3
+315;2;Scene40;Ah oui, quoi donc ?;mp3;Oss2_Scene40_Ah oui, quoi donc .mp3
+316;2;Scene40;Non! Non! NON! C'était un accident ! Un banal accident de trapèze !;mp3;Oss2_Scene40_C'etait un accident ! Un banal accident de trapèze.mp3
+317;2;Scene40;Qu'est-ce qu'il fait encore ?;mp3;Oss2_Scene40_Qu'est ce qu'il fout encore .mp3
+318;2;Scene40;Mais non mon petit, il bluffe.;mp3;Oss2_Scene40_Mais non mon petit, il bluff.mp3
+319;2;Scene40;Ce n'est rien. C'est ma fierté qu'une Israélienne me remercie d'avoir sauvé la vie d'un nazi, j'y vois comme un signe, Dolores. Pourquoi ne pas rêver un jour à une réconciliation entre juifs et nazis.;mp3;Oss2_Scene40_Ce n'est rien, c'est ma fierté qu'une juive me remerci d'avoir sauvé un nazi ! Pourquoi ne pas y voir le signe d'une reconcialiation un jour .mp3
+320;2;Scene40;Willkommen in Israel Herr Professor;mp3;Oss2_Scene40_Israël, eir profesor.mp3
+321;2;Scene41;Enfin vous savez bien que non.;mp3;Oss2_Scene41_Mais non, enfin vous savez bien que non .mp3
+322;2;Scene41;Bonjour, patron.;mp3;Oss2_Scene41_Bonjour Patron !.mp3
+323;2;Scene41;Je choisis moi-même mon nom de couverture.;mp3;Oss2_Scene41_Je choisis moi meme mon nom de couverture.mp3
+324;2;Scene41;Oui, sans doute. Me voilà rassuré.;mp3;Oss2_Scene41_Oui sans doutes, me voilà rassuré.mp3
+325;2;Scene41;Oui ! Sinon je me mettrais dans de beaux draps.;mp3;Oss2_Scene41_Sinon je me mettrais dans de beau draps.mp3
+326;2;Scene41;Oui... vous avez raison. Hum;mp3;Oss2_Scene41_Oui! Oui vous avez raison.mp3
+327;2;Scene41;On a bien fait de ne pas y envoyer les P&T.;mp3;Oss2_Scene41_On y a bien fait de ne pas y envoyer les P&T.mp3
+328;2;Scene41;Vous vouliez me montrer un film ?;mp3;Oss2_Scene41_Vous vouliez me montrer un film .mp3
+329;2;Scene41;C'est sans doute rien mais... Cette liste de collaborateurs, il m'a semblé y voir votre nom.;mp3;Oss2_Scene41_C'est sans doute rien, mais cette liste de collaborateurs, il m'a semblé y voir votre nom .mp3
+330;2;Scene41;Wagon-Li ! Ha, ha, ha!;mp3;Oss2_Scene41_Wagon Li.mp3
+331;2;Scene41;Li-couchette.;mp3;Oss2_Scene41_Li couchette.mp3
+332;2;Scene41;Armand, je voulais vous parler... une petite chose me chiffonne.;mp3;Oss2_Scene41_Armand je voulais vous parler, une petite chose me chifonne.mp3
+333;2;Scene41;M. Li en portefeuille.;mp3;Oss2_Scene41_Monsieur Li en portefeuille.mp3
+334;2;Scene41;C'est très curieux, ça. Ma foi sans le vouloir, J'ai l'impression que j'ai fait de l’humour juif.;mp3;Oss2_Scene41_Tiens c'est curieux, je crois que sans le vouloir je viens de faire de l'humour juif.mp3
+335;2;Scene41;J'accepte à une seule condition.;mp3;Oss2_Scene41_J'accepte a une seule condition.mp3
+336;2;Scene41;Je... Je vous remercie Armand. Je ne sais que dire.;mp3;Oss2_Scene41_Ah je vous remercie Armand, je ne sais que dire.mp3
+337;2;Scene41;Hum, ma foi, je... Je crois que c'est quand ce n'est pas rigolo et que... ça ne parle pas de saucisse.;mp3;Oss2_Scene41_Je crois que c'est quand ce n'est pas rigolo et que ça ne parle pas de saucisses.mp3
+338;2;Scene5;D'accord, faisons comme ça.;mp3;OSS2_Scene5_D'accord faisons comme ça.mp3
+339;2;Scene5;Hubert rigole;mp3;OSS2_Scene5_Hubert rigole encore comme un con.mp3
+340;2;Scene5;Pas le moins du monde. Il aura fait une erreur sur la personne. Voilà tout. ;mp3;OSS2_Scene5_Pas le moins du monde, il aura fait erreur sur la personne voila tout.mp3
+341;2;Scene5;Et toi alors, mon vieux Bill? La CIA s'intéresse à L'Amérique du Sud maintenant ?;mp3;OSS2_Scene5_Et toi alors mon vieux Bill, la CIA s'interesse à l'Amerique du sud maintenant .mp3
+342;2;Scene5;Crois moi ou non, Bill. Je suis venu ici pour les femmes et les plages. On m'en a venté les charmes et je tenais à vérifier ce qu'on dit sur les Brésiliennes.;mp3;OSS2_Scene5_Crois moi ou non Bill mais je suis venu pour les femmes et les plages.mp3
+343;2;Scene5;Ravi de t'avoir revu, l'ami.;mp3;OSS2_Scene5_Ravi de t'avoir revu l'amis.mp3
+344;2;Scene5;Trêve de plaisanterie. Pourquoi me suivais-tu Bill?;mp3;OSS2_Scene5_Trêve de plaisanterie,pourquoi me suivez tu Bill .mp3
+345;2;Scene5;En plein dans le dos.;mp3;OSS2_Scene5_En plein dans le dos !.mp3
+346;2;Scene5;N'oublions pas que de son point de vue, nous nous ressemblons tous.;mp3;OSS2_Scene5_N'oublions pas que de son point de vue nous nous ressemblons tous.mp3
+347;2;Scene5;Il se trame que je suis en congé, Bill. Ni plus ni moins;mp3;OSS2_Scene5_Il se trame que je suis en congé.mp3
+348;2;Scene5;Je t'appellerai, Bill, si l'office du tourisme est fermé.;mp3;OSS2_Scene5_Je t'appelerais Bill, si l'office du tourisme est fermée.mp3
+349;2;Scene5;Merci mon vieux.;mp3;OSS2_Scene5_Merci mon vieux.mp3
+350;2;Scene6;Je n'y suis pour rien. C'est l'inexpugnable arrogance de votre beauté qui m'asperge.;mp3;OSS2_Scene6_C'est l'inexpugnable arrongance de votre beauté qui m'asperge.mp3
+351;2;Scene6;Mais je vous en prie.;mp3;OSS2_Scene6_Mais je vous en prie.mp3
+352;2;Scene6;D'ailleurs, ne dit-on pas qu'une femme qui éclabousse un homme, c'est un peu comme la rosée d'une matinée de printemps.;mp3;OSS2_Scene6_La rosée d'une matinée de printemps.mp3
+353;2;Scene7;J'en cherche un en ce moment même.;mp3;OSS2_Scene7_J'en cherche un en ce moment meme.mp3
+354;2;Scene7;Flantier. Noël Flantier. Reporter.;mp3;OSS2_Scene7_Flantier!Noel Flantier, reporter.mp3
+355;2;Scene7;Carlotta ? ;mp3;OSS2_Scene7_Carlotta .mp3
+356;2;Scene7;Même pas.;mp3;OSS2_Scene7_Même pas.mp3
+357;2;Scene7;Moi aussi, je vais enfiler quelque chose de confortable.;mp3;OSS2_Scene7_Moi aussi je vais enfilier qqc de comfortable.mp3
+358;2;Scene7;Qui pourrait bien en vouloir à Carlotta ?;mp3;OSS2_Scene7_Qui pourrait bien en vouloir à Carlotta .mp3
+359;2;Scene7;Non, Flantier.;mp3;OSS2_Scene7_Nan ! Flantier.mp3
+360;2;Scene7;Disons que j'ai un bon pedigree.;mp3;OSS2_Scene7_Disons que j'ai un bon pedigree.mp3
+361;2;Scene8;Charmant voyage.;mp3;OSS2_Scene8_Charmant voyage.mp3
+362;2;Scene9;Bonjour.;mp3;OSS2_Scene9_Bonjour ....mp3
+363;2;Scene9;La secrétaire de qui, alors ?;mp3;OSS2_Scene9_Vous etes la secretaire de qui alors.mp3
+364;2;Scene9;Enchanté. Noël Flantier. Je fais un reportage sur le Brésil pour un journal du soir.;mp3;OSS2_Scene9_Enchanté, Noel Flantier, je vais un reportage sur le Brésil pour un journal du soir.mp3
+365;2;Scene9;Juste cent dix-sept.;mp3;OSS2_Scene9_Juste 117.mp3
+366;2;Scene9;Rechercher un nazi avec des juifs, quelle drôle d'idée!;mp3;OSS2_Scene9_Rechercher un nazi avec des juifs, quelle drole d'idée.mp3
+367;2;Scene9;J'écoute.;mp3;OSS2_Scene9_ Hum Hum J'écoute.mp3
+368;2;Scene9;Je suis .... Enchanté;mp3;OSS2_Scene9_Je suis .... Enchanté.mp3
+369;2;Scene9;"Je leur dis ""je suis ravid'avoir une secrétaire aussi jolie"".";mp3;OSS2_Scene9_Nan mais je leur dit que je suis ravi d'avoir une secretaire aussi jolie.mp3
+370;2;Scene9;Oui. Enfin, le meilleur... C'est pas à moi de le dire. Déjà. Et vous savez, comme je dis souvent;mp3;OSS2_Scene9_Oui! Enfin le meilleur c'est pas a moi de le dire, et vous savez comme je le dis souvent.mp3
+371;2;Scene9;Le...?;mp3;OSS2_Scene9_Le.mp3
+372;2;Scene9;En réalité, on dit cent dix-sept. Et en plus, moi je vous dis ça mais moi c'est Flantier, Monsieur Flantier.;mp3;OSS2_Scene9_On dit 117, mais moi je vous dit ça c'est Flantier, Mr Flantier.mp3
+373;2;Scene9;Mais enfin il va les reconnaître.;mp3;OSS2_Scene9_Mais enfin il va les reconnaitre.mp3
+374;2;Scene9;Attendez, je n'ai rien dit de...;mp3;OSS2_Scene9_Attendez je n'ai rien de ....mp3
+375;2;Scene9;Je suis ravi d'avoir une secrétaire aussi jolie;mp3;OSS2_Scene9_Je suis ravi d'avoir une secretaire aussi jolie.mp3
+376;2;Scene9;Je sais pas. Le nez, déjà... Les oreilles, les doigts,les yeux...;mp3;OSS2_Scene9_Je sais pas le nez deja .....mp3
+377;2;Scene9;On en reparlera quand il faudra porter quelque chose de lourd.;mp3;OSS2_Scene9_On en reparlera quand faudra porter qqc de lourd.mp3
