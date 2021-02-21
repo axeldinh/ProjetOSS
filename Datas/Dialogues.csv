@@ -49,6 +49,7 @@ Il y a beaucoup de poussière dans notre pays.,"C'est le moins qu'on puisse dire
 "Le Raïs, le chef. Le président de l'Égypte, Nasser. Eh bien Nasser a lancé une grande politique d'arabisation du pays.","Le problème avec l'arabe, c'est que ce n'est pas facilement lisible. Même au niveau du son, on sent vos… Oui non mais enfin c'est joli. C'est joli, quand même."
 L'arabe est parlé par des millions de personnes et son écriture est un art.,"[Rire] Des millions ? Des millions ? Vous êtes charmante. Vous voyez ce que ça fait, déjà, un million, Larmina ?"
 "Assez bien oui, merci. Il va falloir être prudent, monsieur Bramard. Les Égyptiens ne supportent plus l'occupation anglaise, et en général, les étrangers sont assez mal vus, en ce moment.","Vu les merveilleuses richesses de ce pays, on comprend que les étrangers aient envie de l'occuper… Et de s'y éterniser."
+"Assez bien oui, merci. Il va falloir être prudent, monsieur Bramard. Les Égyptiens ne supportent plus l'occupation anglaise, et en général, les étrangers sont assez mal vus, en ce moment.","C'est somptueux. J'aime les panoramas. Celui-ci est magnifique. C'est là qu'on voit la grandeur de votre civilisation. Construire pareil ouvrage il y a quatre mille ans, il fallait être visionnaire."
 Le canal a été construit il y a seulement quatre-vingts six ans.,"Ah bon ? En tout cas, quel… Quelle fierté pour votre pays."
 "Le canal a un statut international. La compagnie qui le gère est à majorité anglaise. Rien de tout cela n'est égyptien, à part les cadavres des ouvriers qui se sont échinés à le creuser.",Que se passe-t-il ?
 Mon père est mort ici.,Il a participé à la construction du canal ?
@@ -65,8 +66,10 @@ Merci sidi.,Jack… Jack… Jack…
 "La SCEP, la Société Carotte d'Élevage de Poulets. Monsieur Jefferson était éleveur de poulets, donc vous aussi, maintenant.",Ah. Très bien.
 "450 000, 110 coqs, 150 poulets. C'est ça la SCEP, sidi.",Er quelle est cette curieuse odeur ?
 "C'est le poulet, sidi.",Et ce bruit ?
+"C'est le poulet, sidi.","C'est aussi le poulet, sidi."
 Ils font ça quand on allume et ils s'arrêtent quand on éteint.,Ah. C'est amusant. Ah oui en effet.
 "Venez, Lucien, le bureau de monsieur Jefferson est au fond.","Ah oui, c'est… C'est cocasse."
+"Venez, Lucien, le bureau de monsieur Jefferson est au fond.","Qui êtes-vous, qu'est-ce que vous faites ici et à qui ai-je l'honneur ?"
 "Lucien, je vous présente Gerhard Moeller. Il dirige la SEB, la Société Égyptienne d'Élevage de Bœufs.","Enchanté, mais tout cela ne répond pas à ma deuxième question."
 Laquelle ?,Qu'est-ce que… Qu'est-ce que vous faites ici ?
 "Je suis venu prendre des nouvelles de mon ami Jefferson, simplement. Il y a un moment que je ne l'ai pas vu.",Jack est en Jordanie. C'est un marché très prometteur en termes de poulets.
@@ -75,10 +78,12 @@ Laquelle ?,Qu'est-ce que… Qu'est-ce que vous faites ici ?
 "Lucien, il y a une réception ce soir à l'ambassade de Grande-Bretagne.","Oh, à la bonne heure. Ce sera l'occasion de porter mon… smoking en alpaga."
 "Oui, si vous voulez. Ce sera surtout l'occasion de rencontrer le gratin cairote.","Et non pas le gratin de pommes de terre. Non parce que ça ressemble à ""carotte"". Cairote. C'est le légume… Parce que vous avez dit gratin. Donc, euh… Gratin de pommes de terre. Gratin de pommes de terre, c'est une… C'est une astuce."
 Je passerai vous prendre à dix-neuf heures.,"Oui, très bien. À tout à…"
+Je passerai vous prendre à dix-neuf heures.,Bramard.
 "Oui, sidi ?",J'ai réservé au nom de Bramard.
 Monsieur Bramard ?,Monsieur.
 Comment est votre potée ?,Pardon ?
 Comment est votre potée ?,Comment est quoi ? Comment est quoi ? Comment est quoi ?!
+Comment est votre potée ?,"Merci, tenez."
 Choukran.,Mais c'est René Coty…
 "Bienvenue en Égypte, 117.","Ah, princesse. C'est toujours un enchantement de vous voir."
 Merci Hubert.,Il y a pas de quoi.
@@ -94,6 +99,7 @@ Mon petit chameau…,"Faudrait vraiment arrêter avec les noms d'animaux. À for
 "Inch'Allah Lucien, je vous conduis.",Je n'ai jamais pu refuser quoi que ce soit d'une brune aux yeux marrons.
 Et si j'étais blonde aux yeux bleus ?,"Cela ne changerait rien, vous êtes mon type de femme, Larmina."
 Tiens donc. Et si j'étais naine et myope ?,Et bien je ne vous laisserais pas conduire. Ça n'a pas de sens.
+Tiens donc. Et si j'étais naine et myope ?,"Entrez, Larmina. Je vous rejoins."
 "Ça y est, je… J'ai trouvé. Comment est votre daube ?",Tu n'en as pas eu assez tout à l'heure ?
 Arrêtez…,"C'est toi, arrêtez ! Pardonnez-moi. Venez, allons nous amuser."
 Il vient d'arriver à l'ambassade.,"Une Suze. Vous ne prenez rien ? Guignolet, Dubonnet, Saints-Anneaux, Brandy peut-être ?"
@@ -124,6 +130,8 @@ Ah ouais… Choukran.,Larmina ? C'est moi.
 C'est vous ?,Bah oui c'est moi.
 J'étais morte d'inquiétude. J'ai préféré venir vous attendre ici.,"Dormez, tout va bien."
 [Appel à la prière],"Mais il va la fermer, sa gueule !"
+[Appel à la prière],"Tout ce tintamarre, ça commence vraiment à me faire suer. On va entendre parler du pays."
+[Appel à la prière],"Excusez-moi ! Excusez-moi ! Excusez-moi, ho ! Vous me comprenez ou pas s'il vous plait ? C'est pas possible. Le micro, là, c'est vraiment pas possible. Donne-moi ce micro. Ne faites pas l'enfant ! Si ! Donne-moi ce micro !"
 Bonjour.,"Oh, bonjour Larmina."
 Bien dormi.,"Oui, très bien, merci. J'ai fait un rêve merveilleux. J'ai rêvé qu'une femme sublime aux yeux marrons m'apportait mon petit-déjeuner au lit."
 Vous dites ça à toutes les femmes ?,"Non, seulement aux femmes sublimes aux yeux marrons qui m'apportent mon petit-déjeuner au lit."
@@ -131,6 +139,8 @@ Bismillah.,"J'aime me beurrer la biscotte. Dites-moi, Larmina. Cette nuit, j'ai 
 Le muezzin ? Vous avez fait taire le muezzin ?,Le ?
 Muezzin. Le prêtre qui appelle les fidèles à la prière du matin.,"Ah j'ignorais. C'était donc ça tout ce tintouin, les cris, le micro… D'accord. Hmm… On m'enlèvera pas l'idée que c'est une curieuse religion. À mon avis, vous allez vite vous en lasser. Je ne lui prédis pas un grand avenir. Dites-moi Larmina, mon petit. Ça vous embêterait de me déposer à la SCEP, histoire de fouiner un peu ?"
 "Mais bien sûr, Lucien.",Choukran.
+"Mais bien sûr, Lucien.","Bon… Et bien je vous dis à tout à l'heure, Lar…"
+"Mais bien sûr, Lucien.",Intercalaires…
 "Vous n'avez plus besoin de moi, sidi ?",Hein ?
 "Il est cinq heures, sidi.","Il est cinq heures ? Ça passe à une vitesse… Oui, non tu peux rentrer chez toi, brave Slimane."
 "Merci, sidi.","Bonsoir, dévoué Slimane. Slimane ?"
@@ -165,6 +175,7 @@ Faire l'amour avec toi ? Toi qui as voulu faire taire un muezzin parce qu'il t'e
 Je suis comme eux ! Je me bats pour qu'on me respecte !,"Dommage qu'eux ne soient pas comme vous. Si tous les hommes avaient des formes aussi prodigieuses que les vôtres, je virerais sûrement ma cutille."
 Ne t'avises plus jamais de parler de mon corps.,"Si tous les hommes avaient ces seins rebondis, ce sillon mammaire impeccablement dessiné, ces tétons qui pointent à la moindre émotion, à la moindre brise, ces tétons que l'on a envie de mordiller, ces mamelons roses de vie, gorgés d'envie…"
 "Vous êtes ridicule, Lucien.","Oui, mais je suis libre."
+"Vous êtes ridicule, Lucien.","Bien, j'y vais. Vous faites quoi, vous ? Je plaisante. À bientôt, Larmina. Inch Allah. Ah, quel cabotin… Ah, c'est vrai. J'allais oublier."
 "Alors, infidèle ? On s'en va sans dire au revoir ?",Mais pas du tout. Je suis prêt à vous dire au revoir un par un.
 Essaie un peu pour voir.,"Très bien, je commence par qui ?"
 Essaie un peu pour voir.,Je commence par qui ?
@@ -185,6 +196,7 @@ Les Aigles de Khéops vont avoir des armes ?,Oui.
 "C'est extrêmement inquiétant. Tu vas tout de suite prévenir le gouvernement égyptien, moi je m'occupe de Paris. Très bon boulot. Intuition, discrétion, déduction, tu pur OSS 117.",C'est… Il faut juste réfléchir et ne pas s'éparpiller.
 "Essaie aussi de faire parler ce russe, Setine. Tu le trouveras au hammam Suleyman Pacha, il y est tout le temps fourré.","Hmm, d'accord."
 "Passez-moi Paris, code rouge.",Je vais y aller.
+"Passez-moi Paris, code rouge.",Qu'est-ce que… Qu'est-ce que tu m'as dit… de faire avant le hammam ?
 Le gouvernement.,"Le gouvernement. D'Égypte. Ce… ça… Hé ben j'y vais. Au revoir, Plantieux. Code rouge."
 "Vous avez bien fait de me prévenir, monsieur Bonisseur de la Bath, et je vous en remercie. Nous allons agir sur-le-champ.",Cela m'a paru tout naturel.
 Ces Aigles de Khéops sont prêts à nous faire replonger en plein Moyen-Âge. L'accident regrettable et impardonnable d'hier matin avec le muezzin a dû mettre le feu aux poudres.,"Ah oui ? C'est joli, ces fontaines, là. J'aime le bruit blanc de l'eau."
@@ -259,8 +271,10 @@ Il s'agit sans doute d'une seule et même djellaba.,"Une djellaba pour trois per
 "Non ça va, je vous assure.",Sinon je vous le note. Moi ça me prend deux minutes et après je suis tranquille.
 "Non, je vous dis que ça va.","Je veux bien vous faire confiance, moi…"
 Sidi ! Il est arrivé un grand malheur à la SCEP.,"Oh mon Dieu, les poules ! Filez ! Je passe à la SCEP et je vais au ponton 17 !"
+Sidi ! Il est arrivé un grand malheur à la SCEP.,"Fonce, Slimane, fonce ! FONCE ! Merci, Slimane. Brave pilier de la SCEP. Tu sais que…"
 "Ouais, sidi, je sais, vous êtes mon ami.","Tiens, tu achèteras des chaussures à tes enfants."
 "Ça va être compliqué en ce moment, parce qu'ils sont à New York pour leurs études.",Ah…
+"Ça va être compliqué en ce moment, parce qu'ils sont à New York pour leurs études.","Oh, ma tête."
 "Alors Bramard, on reprend ses esprits ? Vous connaissez Slimane, je crois.","Slimane ? Toi, mon brave contremaître ?"
 "Ah bah… Sauf qu'un contremaître comme celui-là, on le chérit, mon vieux.",Mais je l'ai chéri.
 Tiens. Mon porte-bonheur.,"Le président Coty… Comment oses-tu, pilier…"
@@ -301,16 +315,25 @@ Monsieur ?,"Merci, mademoiselle."
 "Et ""Au revoir"", aussi !",Qui sont ces gens ?
 Ce sont les hommes de monsieur Li.,Ah... Enfin !
 Nous sommes perdus.,Ils sont perdus.
+Nous sommes perdus.,"Tout va bien,Comtesse ?"
 "Merci, Hubert. Vous m'avez sauvé la vie.",Mais je vous en prie. On a frôlé la catastrophe.
 "Je ne sais comment vous remercier. Vous savez décidément tout faire, Hubert.","Ah Je n'ai fait que mon devoir, Comtesse. "
+"Je ne sais comment vous remercier. Vous savez décidément tout faire, Hubert.","Mais à l'avenir,vous devriez vous méfiez de M. Li. Et des Chinoisen général, d'ailleurs."
+"Je ne sais comment vous remercier. Vous savez décidément tout faire, Hubert.",La fortune de la famille impériale attire bien des convoitises.
 Les sales rouges !,Les sales jaunes.
 Non. Les sales rouges.,Au temps pour moi.
 "Vous ne connaissez pas bien la Chine,M. Bonisseur de la Bath.","Oh, ma foi... il ne tient qu'à vous de m'en laisser explorer une partie. Si intime soit-elle."
+"Vous ne connaissez pas bien la Chine,M. Bonisseur de la Bath.","Bonjour, Fayolle. "
 "Bonjour, de la Bath. ","Bonjour, Dutran."
+"Bonjour, de la Bath. ","Salut, Corbier."
 "Bonjour, de la Bath.",Poulard !
+"Bonjour, de la Bath.",Bonjour bonjour
 "Et alors, ce ski ? ","Très bien,je vous remercie Ledentu Et vous vous allez bien ?"
 Comme un lundi.,"Ah! Elle est pas mal, celle-là. Je l'aime bien. ""Comme un lundi""."
+Comme un lundi.,"Bonjour Jean-Pierre. Très réussi, méconnaissable."
 "Merci, Hubert.",Je t'en prie mon vieux.
+"Merci, Hubert.",Bonjour Mayeux 
+"Merci, Hubert.",Bonjour Castaing.
 "Bonjour, de la Bath.",Toujours pas de nouvelle de Picot?
 Ma foi non. Pas depuis la dispute avec Roussel.,Et Lefranc ?
 Il a parlé avec Mongier mais bon...,"Et Borges, il en dit quoi ?"
@@ -320,6 +343,7 @@ En effet !,"Tu regardes quoi, Castaing ?"
 "C'est un plan,pour construire un pédalo en forme de canard, figure-toi",Et ça sert à quoi?
 "Ni plus ni moins qu'un pédalo classique Tiens d'ailleurs, si tu peux me le garder une seconde?",Bien sûr.
 "Toc, toc toc. Le patron vous fait prévenir qu'il vous attend dans son bureau de la Bath",Merci Ledentu
+"Toc, toc toc. Le patron vous fait prévenir qu'il vous attend dans son bureau de la Bath","Bonjour, Armand."
 "Ravi de vous revoir Hubert, Comment s'est passé votre séjour à Gstaad ?","Ma foi, comme un lundi. Frais dans la matiné, soleil l'après-midi. La recette des sports d'hiver réussis."
 "Hubert, vous repartez en mission.",Douce chanson que vous me chantez là Armand.
 "Tenez, prenez ceci.",Merci.
@@ -330,7 +354,9 @@ Il a en sa possession le microfilm d'une liste de Français qui ont collaboré a
 Tout le monde n'a pas votre loyauté.,"Mais enfin Armand, Le général de Gaulle n'a t-il pas dit que toute la France avait été résistante."
 "En effet il l'a dit. Il l'a dit. Eh oui... Bon, quoi qu'il en soit,vous partez pour Rio de Janeiro. En échange du microfilm, vous lui donnez 50 000 Francs.",Nouveau ?
 Nouveau.,Habile.
+Nouveau.,"Et pourquoi moi Armand? S'il ne s'agit que de faire un échange, les P&T font ça très bien."
 "Je sais Hubert Mais Von Zimmel a insisté, il veut notre meilleur agent.",Je comprends.Dans ce cas.
+"Je sais Hubert Mais Von Zimmel a insisté, il veut notre meilleur agent.",Procédure habituelle ?
 "Tenez, voici vos papiers, Vous êtes reporter photographe dans un journal du soir. Et vous vous appelez Noël Flantier.",Noël Flantier ?
 Oui.,Qui s'occupe de trouver les noms au bureau ?
 "C'est le commandant Ludovic Flétanchard,du service couverture.",Noël Flantier... Je vais lui faire un courrier
@@ -338,13 +364,17 @@ Oui.,Qui s'occupe de trouver les noms au bureau ?
 "Taxi, monsieur ?",Ma foi...
 Vous allez où ?,Au Copacabana Palace.
 "Montez. Bienvenue à Rio, monsieur.",Abragado. Abragado...
+"Montez. Bienvenue à Rio, monsieur.",Ce n'est pas la route de l'hôtel. 
+"Montez. Bienvenue à Rio, monsieur.",Qu'est-ce que c'est que ce guet-apens ?
 Descends ! Et pas un geste ! Tu as tué mon frère à Gstaâ ! Tu vas mourir. Terminus à Rio pour OTT 117.,Plaît-il ?
 Tu as tué mon frère à Gstaâ ! Tu vas mourir !,"Excusez-moi, je..."
 "Gstaâ, en Suisse! Le ski !","Ah, Gstaad ? Gstaad..."
 C'est mon accent qui vous fait rire ?,Pas du tout.
 Vous raciste !,"Mais non, je vous jure que non j'ai même longtemps vécu en Cochinchine."
 "Monte, Hubert.",Bill Trumendous ! Ce vieux Bill! 
+"Monte, Hubert.",En plein dans le dos.
 "Alors, mon vieux Hubert, on a des soucis avec des Chinois ?",Pas le moins du monde. Il aura fait une erreur sur la personne. Voilà tout. 
+"Alors, mon vieux Hubert, on a des soucis avec des Chinois ?","N'oublions pas que de son point de vue, nous nous ressemblons tous."
 "You got a point there, motherfucker","Et toi alors, mon vieux Bill? La CIA s'intéresse à L'Amérique du Sud maintenant ?"
 "Oh, quelle putain de chaleur!",Trêve de plaisanterie. Pourquoi me suivais-tu Bill?
 "C'est à toi de me le dire. Qu'est-ce que tu fais ici bastard, hein ? Qu'est-ce qui se trame ?","Il se trame que je suis en congé, Bill. Ni plus ni moins"
@@ -352,14 +382,21 @@ Vous raciste !,"Mais non, je vous jure que non j'ai même longtemps vécu en Coc
 "Comme tu voudras, My ass licking cocksucker motherfuckin son of a bitch",Merci mon vieux.
 "Tiens, Hubert. Au cas où la mémoire te revenait, n'hésite pas.","Je t'appellerai, Bill, si l'office du tourisme est fermé."
 Shut up Kiss my ass,"D'accord, faisons comme ça."
+Shut up Kiss my ass,"Ravi de t'avoir revu, l'ami."
 "Oh, pardon. Je suis affreusement maladroite. Apparemment, je vous ai éclaboussé.",Mais je vous en prie.
+"Oh, pardon. Je suis affreusement maladroite. Apparemment, je vous ai éclaboussé.","D'ailleurs, ne dit-on pas qu'une femme qui éclabousse un homme, c'est un peu comme la rosée d'une matinée de printemps.C'est la promesse d'une belle journée et la perspective d'une soirée enflammée."
+"Oh, pardon. Je suis affreusement maladroite. Apparemment, je vous ai éclaboussé.",Je n'y suis pour rien. C'est l'inexpugnable arrogance de votre beauté qui m'asperge.
 "Vous êtes superbe, monsieur... Monsieur ?",Flantier. Noël Flantier. Reporter.
 Enchantée. Carlotta. Et vous faites un reportage sur...?,Le Brésil.
 Vaste sujet. Il vous faudrait un angle d'attaque ?,J'en cherche un en ce moment même.
 Magnifique. Vous faites du sport ?,Même pas.
 Superbe.,Disons que j'ai un bon pedigree.
 Je vais enfiler quelque chose de plus... Confortable.,"Moi aussi, je vais enfiler quelque chose de confortable."
+Je vais enfiler quelque chose de plus... Confortable.,Carlotta ? 
+Je vais enfiler quelque chose de plus... Confortable.,Qui pourrait bien en vouloir à Carlotta ?
+Je vais enfiler quelque chose de plus... Confortable.,Oui ?
 M. Bonisseur de la Bath ?,"Non, Flantier."
+M. Bonisseur de la Bath ?,Oui ?
 "Montez ! Restez tranquille, double un sept.",Charmant voyage.
 "Veuillez excuser ces manières un peu cavalières, mais nous tenions à vous parler tranquillement, double un sept.","En réalité, on dit cent dix-sept. Et en plus, moi je vous dis ça mais moi c'est Flantier, Monsieur Flantier."
 "Bonjour, je suis le colonel Staman. Voici le colonel Kutner.",Enchanté. Noël Flantier. Je fais un reportage sur le Brésil pour un journal du soir.
@@ -371,6 +408,7 @@ Allons droit au but. Êtes-vous prêt à faire équipe avec le Mossad ?,J'écout
 Mossad. Les services secrets israéliens.,"Rechercher un nazi avec des juifs, quelle drôle d'idée!"
 Et pourquoi donc ?,Mais enfin il va les reconnaître.
 Comment ça ?,"Je sais pas. Le nez, déjà... Les oreilles, les doigts,les yeux..."
+Comment ça ?,"Attendez, je n'ai rien dit de..."
 "Vous êtes bien OSS 117, le meilleur agent Français","Oui. Enfin, le meilleur... C'est pas à moi de le dire. Déjà. Et vous savez, comme je dis souvent"
 "M. 717, je vous présente Dolores Koulechov. Vous étiez censé faire équipe avec elle.",Bonjour.
 "Bonjour. Je suis enchanté. C'est un honneur de vous rencontrer OSS 117. Sachez que votre combat contre la barbarie nazi a traversé les frontières. Et que dans nos écoles de formation, nous sommes bercés de vos exploits. Pour beaucoup d'entre nous, vous êtes une légende.Vous incarnez le rempart contre la sauvagerie. Et je tiens à vous dire à quel point vous êtes un symbole de liberté. Et combien je suis touchée et honorée de travailler avec vous, OSS 117.",Je suis ravi d'avoir une secrétaire aussi jolie.
@@ -385,47 +423,82 @@ Nous voulons faire avec Von Zimmel ce que nous avons fait avec Eichmann à Bueno
 "Nous partons à sa recherche ensemble. Vous récupérez votre microfilm. Et nous, Von Zimmel. Vous commencez demain, et évidemment vous serez seul.",Épatant.
 Staman et moi repartons pour Tel Aviv demain matin. Et nous n'avons évidemment jamais entendu parlé de vous. Et nous ne savons même pas qui vous êtes.,Habile.
 Voulez-vous laisser l'argent ici ?,"Je ne crois pas, non. C'est l'argent de la France et je ne peux pas me permettre de le laisser à n'importe qui. "
+Voulez-vous laisser l'argent ici ?,"Quand je dis n'importe qui, ne le prenez pas pour vous. N'allez pas croire que je n'ai pas confiance par rapport à ce qu'on dit sur les juifs et l'argent, ça n'a rien à voir ?"
 Voulez-vous voir votre chambre M. Flantier?,Oui.
+Voulez-vous voir votre chambre M. Flantier?,Pardon ! 
+Voulez-vous voir votre chambre M. Flantier?,Bonsoir.
 "Pyjama, brosse à dents.",Merci mais je ne me servirai que de la brosse à dents.
 Vous faites ce que vous voulez. Bonne nuit.,"Merci pour la brosse à dent, Dolores."
 Laila tov,"Bonne nuit, les gars."
+Laila tov,"Belle soirée, n'est-ce pas ? "
+Laila tov,"Je suis désolé pour tout à l'heure. J'ai été affreusement maladroit. Mais ne vous inquiétez pas, je saurai me faire pardonner."
 "N'en parlons plus, l'incident est clos.",Je me rends bien compte que j'ai été...
 Antisémite ?,Non ! Je pensais plutôt maladroit.
 "Ne vous tracassez pas. De toute évidence, il n'y avait pas de méchanceté.Vous n'êtes pas le premier,vous n'êtes pas le dernier à dire une bêtise. Notre peuple a toujours nourrit beaucoup de fantasmes.","Ah ben voilà ! Merci de le reconnaître. Comme je dis souvent, vous avez forcément une part de responsabilité. Sans vouloir..."
 "(En israélien) Je ferai de mon mieux, colonel.",Bonne nuit à vous aussi.
+"(En israélien) Je ferai de mon mieux, colonel.",Je propose que nous commencions par le Copacabana Palace. J'ai quelques affaires à y prendre Et mon attaché case à y déposer.
 Comme vous voudrez Hubert. Dans ce cas je vais commencer l'enquête de mon côté.,"Oh non, C'est dommage. Restons ensemble. Venez voir l'hôtel, au moins."
 "C'est gentil, ça m'aurait fait plaisir mais je préfère travailler.","C'est ridicule. Il y à la piscine, il y a tout. On s'y mettra cet après midi, on en mettra un bon coup et puis voilà, non ?"
 "Non merci,je ne préfère pas. Retrouvons-nous à 13h pour un topo.",Comme vous voudrez. 
+"Non merci,je ne préfère pas. Retrouvons-nous à 13h pour un topo.","A tantôt, alors."
 Tu as tué mon frère à Gstaad. Tu vas mourir.,Pardon ?
 Herr Flantier?,Oui
 "Suivez-nous, Herr Flantier.","Je suis ravi de vous revoir. Je n'ai pas eu l'occasion de vous parlerdepuis cette mission à Gstaad. Je voulais vous en remercier. Très belle mission, très agréable.J'espère que vous n'êtes pas trop désappointés, Je n'ai pas pu tuer tous les chintoks. J'en suis désolé. Je sais que vous détestez"
+"Suivez-nous, Herr Flantier.","Tous ces bouffeurs de riz. Ils sont récalcitrants, ces faces de quetsche."
+"Suivez-nous, Herr Flantier.",Ces tranches de pamplemousse.
+"Suivez-nous, Herr Flantier.","Robustes, les têtes de prune."
+"Suivez-nous, Herr Flantier.",Les cœurs d'ananas.
+"Suivez-nous, Herr Flantier.",Les rondelles de citron.
+"Suivez-nous, Herr Flantier.","Les bananes flambées. Avant qu'elles soientflambées. Les bananes, quoi.  "
+"Suivez-nous, Herr Flantier.",Je descends là.
+"Suivez-nous, Herr Flantier.",Les Allemands... Bah oui. Les Allemands!
+"Suivez-nous, Herr Flantier.",Bonjour.
 Bonjour.,"Est-ce qu'il serait par hasard possible, j'ignore si ça existe, de consulter un fichier sur lequel il y aurait les noms et adresses d'anciens nazis établis au Brésil?"
+Bonjour.,"Il y a forcément une amicale d'anciens nazis ou un club, une association ? "
+Bonjour.,"Un mémorial nazi, peut-être ?"
 "Monsieur, sachez que l'Allemagne est une démocratie. En aucun cas, une ambassade allemande pourrait être au courant des agissements d'anciens nazis.","Oui. Enfin, entre Allemands..."
 Tous les allemands ne sont pas nazis Monsieur!,"Oui... Je connais cette théorie, oui."
 "Je crois que je vais vous demander de partir, monsieur.","Soit. Chou blanc, donc."
+"Je crois que je vais vous demander de partir, monsieur.",auf wiedersehen
+"Je crois que je vais vous demander de partir, monsieur.","On a beau dire, mais la France, ça reste quand même le pays des 400 fromages. "
+"Je crois que je vais vous demander de partir, monsieur.","Comment dit-on ""fromage"" en brésilien ?Queijo."
+"Je crois que je vais vous demander de partir, monsieur.",Queijo...
 "Ça va, Hubert ? Tout se passe bien ? Alors, vous avez progressé, vous en êtes où ?","Bah... Je vous en prie. A vous d'abord. Je suis certes agent secret, mais je n'en suis pas moins français."
 "En revanche de mon côté, je crois que  fait du bon travail. D'après ce que j'ai réussi à savoir, la CIA aurait été en contact avec von Zimmel. Il faudrait essayer de joindre son agent à Rio, un certain Bill Trumendous.",Bill?
+"En revanche de mon côté, je crois que  fait du bon travail. D'après ce que j'ai réussi à savoir, la CIA aurait été en contact avec von Zimmel. Il faudrait essayer de joindre son agent à Rio, un certain Bill Trumendous.","Bravo, je suis très impressionné. Je vois que nous sommes arrivés aux mêmes conclusions. Avec, toutefois, un léger avantage pour moi. "
+"En revanche de mon côté, je crois que  fait du bon travail. D'après ce que j'ai réussi à savoir, la CIA aurait été en contact avec von Zimmel. Il faudrait essayer de joindre son agent à Rio, un certain Bill Trumendous.",Voici la carte de M. Trumendous.
+"En revanche de mon côté, je crois que  fait du bon travail. D'après ce que j'ai réussi à savoir, la CIA aurait été en contact avec von Zimmel. Il faudrait essayer de joindre son agent à Rio, un certain Bill Trumendous.",Cheers
 Ah... Sacré Hubert!,Bill...
 Tu te débrouilles toujours pour être accompagné des plus jolies pépées. ,Ce vieux Bill!
 Quelle chaleur!,Ah oui.
 "Vous savez, le Brésil est un pays mystérieux. Les gens apparaissent et disparaissent.",Il a passé plus de vingt ans ici. Il a forcément dû laisser des traces.
 "Son fils Heinrich est ici, à Rio. Je crois me souvenir qu'il habite dans la favela, aux dernières nouvelles, il vivait dans un groupe hippie",Dans un quoi?
 Groupe hippie.,"Oh bon Dieu ! Vivre dans l'urine, c'est affligeant. "
+Groupe hippie.,Mais où va le monde...
 "Non, non. Dans un GROUPE hippie.","Ah, d'accord. Pas un gros pipi..."
 Attends. J'ai peut-être la photo. C'est Heinrich von Zimmel.,Oh! Cette tignasse ! 
+Attends. J'ai peut-être la photo. C'est Heinrich von Zimmel.,Je vois pas bien l'intérêt de ressembler à une femme. 
+Attends. J'ai peut-être la photo. C'est Heinrich von Zimmel.,"Étrange...Bill, que veulent ces marginaux ? "
 Ils font ça en signe de protestation. Ils veulent changer le monde.,"Changer le monde ?  Quelle drôle d'idée ? Il est très bien comme ça, le monde. Pourquoi changer ?"
 "En gros, pour faire simple, ils veulent faire l'amour, pas la guerre.","Oh mais l'un n'empêche pas l'autre. J'ai toujours fait les deux et jusqu'à présent, je n'ai jamais reçu aucune plainte."
 Sacré Hubert! You are so French!,Toi aussi.
+Sacré Hubert! You are so French!,"Oh, ça va. Je croyais que vous aviez de l'humour. On dit de l'humour juif... Ça n'a pas l'air très rigolo votre humour"
 "Non en effet, ce n'est pas très rigolo, non.",Ah bon ? Comment ça peut être de l'humour si ce n'est pas rigolo ?
 "Vous y arrivez bien, vous dans votre style.",Hum ? Oui.
+"Vous y arrivez bien, vous dans votre style.",Cette ville est absolument magnifique. 
+"Vous y arrivez bien, vous dans votre style.",Et je m'y connais.
+"Vous y arrivez bien, vous dans votre style.",Comment font donc les gens ici pour ne pas salir leurs souliers ?
 La plupart n'en ont pas.,"Elle est bonne, celle-là, pas de souliers. J'avoue"
 "Vous savez Hubert, la vie n'est pas toujours facile pour les gens ici. C'est d'ailleurs le propre des dictatures.","Une dictature, comme vous y allez. Vous êtes bien sympathique Dolores, mais épargnez-moi vos analyses politiques. Savez-vous seulement ce que c'est qu'une dictature ? Une dictature, c'est quand les gens sont communistes. Déjà. Qu'ils ont froid avec des chapeaux gris et des chaussures à fermeture éclair. C'est ça, une dictature, Dolores."
 dont toute l'information est contrôlé par l'état ?,"J'appelle ça la France, mademoiselle. Et pas n'importe laquelle La France du général de Gaulle."
 Je crois que c'est là.,Où est Heinrich von Zimmel ? Je répète ma question où est Heinrich von Zimmel ? Et pose ce transistor ! 
+Je crois que c'est là.,"Complètement crétin, ce gamin."
 Les hippies ne vivent plus ici. Ils sont maintenant sur une plage pas très loin.,"Très bien, allons-y."
 Au revoir.,"Au revoir, les enfants."
+Au revoir.,"Vous savez Dolores, je vous ai vu parler avec cette fillette vous savez ce que je me suis dit ? Je me suis dit que vous étiez faite pour avoir des enfants. Vous n'avez rien à faire dans ce métier dangereux... que votre place était à la maison, à vous occuper de vos enfants avec douceur. Vous savez Dolores, c'est un compliment que je fais rarement, mais vous avez l'étoffe d'une mère de famille."
 Je peux vous poser une question Hubert,Bien sûr.
 Vous me diriez tout ça si j'étais un homme ?,"Vous savez, les hommes sont rarement des... des... mères de famille."
+Vous me diriez tout ça si j'étais un homme ?,"Heinrich von Zimmel. Voilà mon plan, Dolores simple et efficace. Vous voyez ce rocher ? Amenez le gamin ici. Usez de vos charmes s'il le faut Après, je m'occupe de tout. Ne vous inquiétez pas, ça va bien se passer."
 Nous sommes journalistes et on cherche ton père Heinrich. Où est-il ?,On n'avait pas dit qu'on faisait comme ça.
 Ce n'est pas ce que je veux entendre.,Moi non plus.
 Je hais mon père. C'est un nazi. Mon père est un salaud. J'ai honte d'être son fils.,"Non, mais oh ! Comment tu parles de ton père ! T'as pas honte ? Qui c'est qui t'a nourri? Jamais je parlerais comme ça de mon père, jamais ! Mon père, il était charron. Je peux te dire que ça filait doux. La mère De la Bath, elle moufetait pas. Les gamins pareil !"
@@ -437,16 +510,24 @@ Mais il avait parlé.,"Oui, mais c'est cette attitude de dénigrement systémati
 "Hubert, si vous préférez, on se sépare. Vous, vous restez ici histoire de surveiller Heinrich.",Vous pensez que c'est mieux ?
 Je ne sais pas peut-être.,"Vous ne seriez pas en train de vous débarrasser de moi, par hasard ?"
 Non. Pas du tout,"Je plaisante, Dolores. Je me doute bien."
+Non. Pas du tout,Vous faites des quiches un peu ici ?
 Des quoi ?,"Des quiches, quiches lorraines."
 Bye.,Bye.
+Bye.,Ah ? Merci. Qu'est ce que c'est ?
 LSD.,"Très bien. J'avais fermé un petit peu l'obturateur. Vu que j'ai mis du 200 ASA, avec la lumière... ça va bien rendre."
+LSD.,"Changer le monde, changer le monde... C'est bien sympathique, mais faudrait déjà vous lever le matin. Je ne sais pas si vous êtes au courant mais le monde vous attend pas. Le monde, il bouge. Et il bouge vite. Vous allez pas tarder à rester sur le carreau. Je vous le dis. Parce que là vous êtes en vacances, mais à la rentrée..."
 On n'est pas en vacances.,"OK, admettons. Vous avez pris une année sabbatique, très bien, mais l'année prochaine, vous y avez pensé à ça, l'année prochaine ? C'est pas le monde qui va se plier à vos désirs, les enfants. C'est pas 68, année de la jeunesse. Ça pas comme ça que ça se passe. C'est le vrai monde dehors. Et le vrai monde, il va chez le coiffeur, déjà. Alors, la guitare, les troubadours, tout ça c'est fini. Non merci, j'ai les miennes."
+On n'est pas en vacances.,Qu'est ce que je disais déjà ?
 Tu parlais de la fin des troubadours.,"Oui, c'est ça. Et à propos de quoi je disais ça ?"
 "Ça, je sais pas. ","Tu peux pas dire ça, tu me déçois. Je devais forcément dire un truc... "
+"Ça, je sais pas. ","Euh... J'aime ce qui se passe. Mais on est d'accord, c'est notre secret. Ça reste entre nous, hein ?"
+"Ça, je sais pas. ","C'est pas... Vous comprenez ? Parce que les gens sont pas obligés de savoir tout ça. Sorti de son contexte, un doigt dans les fesses ça peut être..."
 Tout va bien! Tranquille!,Je préfère que ce soit clair. On a tendance parfois à se faire des idées...
 Tout va bien... Tout va bien!,Étrange. 
+Tout va bien... Tout va bien!,Je ne reconnais pas la route de Brasilia.
 "Tout c'est bien passé, hier soir ?","Impeccable. J'ai passé une soirée somme toute très tranquille. On a mangé, j'ai pris du SVP et j'ai dormi comme un bébé."
 Très bien.,"Hum, hum. Finalement cette bande de hippies est plutôt sympathique. Une fois passée la barrière de l'hygiène, s'entend.  Enfin, que voulez-vous, c'est la jeunesse. Tôt ou tard, la vie se chargera de leur couper les cheveux."
+Très bien.,"Dolores, ça fait un petit moment que je voulais vous..."
 "Hubert, qu'est-ce qu'il vous veut?","Ma foi, je l'ignore. Je ne le connais pas."
 "Cet avion sera ton cercueil, OSS 117.",Fermé ! et à clé en plus.
 Avec les compliments de M. Li.,Auriez-vous une broche ou une aiguille à tricoter ?
@@ -457,6 +538,7 @@ Non plus.,Une baleine de soutien gorge ?
 De... ?,De soutien-gorge.
 Parce que.,Parce que quoi?
 Parce que je fais ce que je veux et que mon corps m'appartient. et ce n'est pas du tout le moment de parler de ça.,Je vois pas bien l'intérêt de ressembler à un homme ? Curieux.
+Parce que je fais ce que je veux et que mon corps m'appartient. et ce n'est pas du tout le moment de parler de ça.,Ouvert.
 Ca va Hubert?,"Ça va oui, sauf que l'avion perd de l'altitude, on fonce sur les arbres. Je n'aurai pas le temps de sortir le train d'atterrissage."
 Y a quoi qui va ?,"Ce qui va, c'est que je suis là."
 Mon Dieu !,Merci.
@@ -466,17 +548,22 @@ On arrive ?,"Dépêchez-vous,les réservoirs sont en feu l'avion va exploser."
 Les Japonais ?,"Les Japonais, c'est ça. Au temps pour moi. J'avais un embryon de piste, mais non. Si nous avons à faire à des Chinois de Chine, ça ne marche plus."
 Je voulais vous remercier encore Hubert pour tout à l'heure. Et vous dire que j'étais très fière de faire cette mission avec vous.,"Je comprends. A ce propos, je voulais vous dire... Je sais que vous êtes très admirative de moi, de ma carrière. Vous connaissez ma vie, vous connaissez mon métier. Vous savez que j'ai toujours été un rempart a la barbarie. Malheureusement, tout cela a un prix. Dolores, je vais être un petit peu brutal, mais... Si jamais il devait se passer quelque chose entre nous, je... Il m'est impossible de m'engager avec une femme. Avec moi, les histoires d'amour ne s'écrivent pas dans le temps, ce sont... des histoires courtes, compactes, passionnelles. Je ne sais pas vivre autrement Dolores. D'aucuns ont des aventures. Je suis une aventure. Et je me devais de vous en prévenir."
 "C'est... Mais c'est très aimable. Merci, Hubert.",Je vous en prie. Vous êtes aimable. 
+"C'est... Mais c'est très aimable. Merci, Hubert.",Que se passe-t-il ? 
 Rien.,Vous n'aimez pas les hommes.
 "Si, pourquoi ?",Vous retirez votre main comme si...
 N'en parlons plus Hubert.,"C'est parce que je ne suis pas juif, c'est ça ?"
 Pourquoi vous dites ça ?,Vous avez une religion qui est tellement...
 Tellement quoi ?,"Déjà, c'est une religion qui interdit les saucisses, il me semble ?"
 Et?,"Et rien. Faisons comme si c'était normal, après tout. Pas de saucisses, pas d'alcool, les femmes voilées. "
+Et?,Excusez-moi mais c'est quand même... Ça fait un peu Jacques-a-dit a dit pas de charcuterie. Vous ne trouvez pas ?
 "Non, je ne trouve pas. De plus, vous confondez les juifs et les musulmans.",Vous jouez sur les mots Dolores. 
+"Non, je ne trouve pas. De plus, vous confondez les juifs et les musulmans.","Vous savez, de vous à moi, c'est peut-être ça qui agace un peu les gens. Le côté : je suis juif donc j'ai raison sur tout."
 "Désolée si je vous ai vexé. Mais je ne m'excuserai pas. Quant à vos analyses sur les juifs, sur les noirs, sur les femmes, j'aimerais bien que vous les gardiez pour vous à l'avenir",C'est plutôt vous qui avez l'air vexé.
 Vous pensez qu'on peut traverser ?,Négatif. C'est un fleuve à crocodiles. En plus il est trop large pour le traverser à la nage.
 "On va pas faire demi-tour, il faut qu'on trouve un moyen de passer.","Oui, mais pour le moment, nous sommes bloqués. "
+"On va pas faire demi-tour, il faut qu'on trouve un moyen de passer.","Vous voyez bien qu'on ne peut pas traverser ! En attendant de trouver un moyen d'éviter les crocodiles,retournons à la rivière pour bivouaquer.Pas d'objections ?"
 "Ça a l’air joli, par ici.","On va passer la nuit ici. Voilà comment ça va se passer. Moi, je vais chasser. Heinrich, sans te commander tu vas couper du bois. Dolores, soyez gentille. Arrangez-nous une petite table. Essayez de nous faire un truc mignon"
+"Ça a l’air joli, par ici.",Qu'est-ce qu'il fout lui?
 "Je vais dans l'eau, je vais me laver.",Il va attraper plein de microbes. C'est tout ce qu'il va gagner.
 "Tu vois, Noël ? C'est peut-être ça, dans un sens... ""changer le monde"".",Attention Heinrich !
 "Merci, Noël. J'oublierai jamais.",Je t'en prie mon vieux.
@@ -490,7 +577,9 @@ On va pas manger ça.,Elle a raison ?
 Je viens avec vous.,"Bah, tiens !"
 "Tiens, Noël. T'es sûr que tu veux pas des fruits ? C'est vraiment très bon.","Non merci ! J'ai besoin de vitamines, moi."
 "Mais Noël, c'est ridicule.","Oui, évidemment. C'est moi qui suis ridicule."
+"Mais Noël, c'est ridicule.","Mais... ça cuit pas, cette connerie. Pourquoi ça cuit pas ?"
 Ça va ? Ça cuit ?,"Doucement. C'est la peau de crocodile, ça met du temps à rôtir, c'est comme ça. "
+Ça va ? Ça cuit ?,Vous voulez quoi?
 Je voulais juste faire la paix. On est tous très fatigués. Je pense qu'on a plutôt intérêt à se serrer les coudes.,"Vous avez qu'à demander à Heinrich. Vous avez l'air tellement proche, je suis sûr qu'il sera ravi de vous les serrer, les coudes"
 Je comprends pas pourquoi vous réagissez comme ça.,C'est peut-être que j'ai un peu de mal à voir un lieutenant-colonel de l'armée israéliene flirter avec un fils de nazi. Excusez-moi d'avoir un peu de morale.
 Pauvre type !,Bravo ! Très drôle! Bravo!
@@ -499,33 +588,60 @@ Pauvre type !,Bravo ! Très drôle! Bravo!
 un col vert... Enfin n'en parlons plus. ,"L'important, pour l'instant c'est de trouver un hôtel. Voilà qui est fait."
 "C'est bon, j'ai eu l'associé de mon père au téléphone. On peut le voir dès ce soir. Petit problème, il a organisé un bal costumé.","Tu as raison, c'est problématique. À moins qu'on y aille déguisés. Ce qui en plus, peut être amusant."
 "Oui, très ! Mais on n'y va pas vraiment pour ça.","Non, bien sûr..."
+"Oui, très ! Mais on n'y va pas vraiment pour ça.","Bien, il est temps de se mettre au travail. Rendez-vous dans une demi-heure dans le hall, en costume. "
+"Oui, très ! Mais on n'y va pas vraiment pour ça.","En revanche pour les drinks, vous inquiétez pas, c'est payé."
 Comment vous avez fait ça?,Je couds. 
+Comment vous avez fait ça?,"D'ailleurs, tenez. C'est pour vous. "
+Comment vous avez fait ça?,"Je propose qu'on fasse une trêve. Nos deux pays sont amis, je vous rappelle. Faisons un effort."
 "Oui, vous avez raison. C'est ridicule","Voilà, cadeau...  de Noël !"
 Merci.,"Non j'ai dit ""cadeau de Noël"". C'est par rapport à mon prénom..."
 C'est ce que j'avais compris.,M'oui Sinon... y a aussi les boules.
 De Noël?,"Oui. Mais si. C'est rigolo, hein ?"
 Ça suffit!,Oui... Il faut absolument que j'appelle Armand.
+Ça suffit!,"Ça m'est venu comme ça. Tout d'un coup, je me suis souvenu que je m'appelais Noël, et alors c'est sorti tout seul, les boules de Noël. En plus, je crois bien que je lui ai montré mon bazar en même temps. "
+Ça suffit!,"Voilà... C'est pour ça, je me suis dit: ""Ça, c'est pour Armand."" "
+Ça suffit!,"Bon... Armand, je vous laisse. Il y a un nazi dans l'hôtel. Ah ben non, c'est Heinrich, c'est mon ami. "
+Ça suffit!,Je vous rappelle. Au revoir.
+Ça suffit!,"Ah oui, c'est..."
 "Ça va, c'est pas trop...","Non, non c'est bien."
 "Moi, j'aurais bien choisi autre chose, mais il n'y avait plus que ça. Je suis arrivé en retard chez le loueur","Ah oui, ça vient de chez le loueur, d'accord. Je me disais aussi."
 J'avais fait ça pour... C'est un signe de paix.,Vous voyez ? C'est toujours notre Heinrich. 
+J'avais fait ça pour... C'est un signe de paix.,"Allez, n'y pensez plus. C'est jamais qu'un costume nazi, après tout. "
+J'avais fait ça pour... C'est un signe de paix.,C'est parce qu'elle est juive.
 Nous y voilà. Ça sent le piège Hubert.,Pas sûr. Ne voyez pas le mal partout. Ils ont peut-être tous eu la même idée.
 "Sans doute oui ! Ou alors, ils étaient tous chez le même loueur qu'Heinrich. Et ils étaient tous en retard.",Possible. Plus difficile à croire.
 Je vais voir l'associé de mon père. Je reviens,Dolores. Je vous dois des excuses. Il semblerait que vous ayez raison. Que nous soyons pris au piège.
 Sans blague ?,"Venez, essayons de ne pas nous faire remarquer."
 Vous avez un plan pour sortir d'ici?,Pour l'instant je suis en phase d'analyse.
 Vous pensez en sortir bientôt?,Regardez! Le professeur Von Zimmel ! 
+Vous pensez en sortir bientôt?,Au moins il ne nous a pas encore vus.
 "Pardonnez-moi d'interrompre un instant la musique, mais nous avons un invité de marque que j'aimerais accueillir comme il se doit. Je vous demande d'accueillir Monsieur Noël Flantier!",Il ne connaît pas ma vraie identité.
 Que nous connaissons mieux sous le nom de OSS 117!,Heinrich ?
 Il n'y a plus de Heinrich. Je suis Friedrich !,"Ça, alors ! Heinrich ? Un postiche ?"
 "Tu vois Noël, il y a au moins  un point sur lequel je ne t'ai pas menti. C'est sur ma volonté de changer le monde !",Mais alors que voulez-vous von Zimmel ? 
+"Tu vois Noël, il y a au moins  un point sur lequel je ne t'ai pas menti. C'est sur ma volonté de changer le monde !",Que signifie cette réunion sordide ? L'avènement du 4e Reich ?
 "Ha, ha, ha! Non ! Le 4e Reich est un rêve voué à l'échec. tout le monde a essayé, ça ne marche pas J'ai dépassé ce stade. J'ai décidé de poser les bases d'un vrai... nouveau monde. Un monde plus injuste. Un monde plus intolérant, plus inamical. Un monde où il y auraittout le temps la guerre. Tout le temps la maladie. Ce monde... Mon monde... est le 5e Reich !",Utopiste.
+"Ha, ha, ha! Non ! Le 4e Reich est un rêve voué à l'échec. tout le monde a essayé, ça ne marche pas J'ai dépassé ce stade. J'ai décidé de poser les bases d'un vrai... nouveau monde. Un monde plus injuste. Un monde plus intolérant, plus inamical. Un monde où il y auraittout le temps la guerre. Tout le temps la maladie. Ce monde... Mon monde... est le 5e Reich !",Tenez.
+"Ha, ha, ha! Non ! Le 4e Reich est un rêve voué à l'échec. tout le monde a essayé, ça ne marche pas J'ai dépassé ce stade. J'ai décidé de poser les bases d'un vrai... nouveau monde. Un monde plus injuste. Un monde plus intolérant, plus inamical. Un monde où il y auraittout le temps la guerre. Tout le temps la maladie. Ce monde... Mon monde... est le 5e Reich !","Mes amis. Je comprends votre colère. Je comprends votre haine. Mais de grâce, méfiez-vous du cynisme. Méfiez-vous des solutions hâtives. "
+"Ha, ha, ha! Non ! Le 4e Reich est un rêve voué à l'échec. tout le monde a essayé, ça ne marche pas J'ai dépassé ce stade. J'ai décidé de poser les bases d'un vrai... nouveau monde. Un monde plus injuste. Un monde plus intolérant, plus inamical. Un monde où il y auraittout le temps la guerre. Tout le temps la maladie. Ce monde... Mon monde... est le 5e Reich !","Bon, bien sûr, je... je vois bien ce qui vous plaît dans le nazisme. D'ailleurs, qui pourrait vous jeter la pierre ? Moi-même, parfois, il m'arrive de me fâcher. "
+"Ha, ha, ha! Non ! Le 4e Reich est un rêve voué à l'échec. tout le monde a essayé, ça ne marche pas J'ai dépassé ce stade. J'ai décidé de poser les bases d'un vrai... nouveau monde. Un monde plus injuste. Un monde plus intolérant, plus inamical. Un monde où il y auraittout le temps la guerre. Tout le temps la maladie. Ce monde... Mon monde... est le 5e Reich !",Mais êtes-vous sûrs qu'il n'y a pas d'autres solutions ? Êtes-vous sûrs que les enfants que vous étiez ont rêvé d'un monde comme celui là ? Je suis sûr qu'il y a encore un peu de ces enfants en vous. C'est à eux que je m'adresse. Je voudrais leur poser une question. Une simple question. 
+"Ha, ha, ha! Non ! Le 4e Reich est un rêve voué à l'échec. tout le monde a essayé, ça ne marche pas J'ai dépassé ce stade. J'ai décidé de poser les bases d'un vrai... nouveau monde. Un monde plus injuste. Un monde plus intolérant, plus inamical. Un monde où il y auraittout le temps la guerre. Tout le temps la maladie. Ce monde... Mon monde... est le 5e Reich !",Et si le 5e Reich était plutôt celui... de l'amour ?
+"Ha, ha, ha! Non ! Le 4e Reich est un rêve voué à l'échec. tout le monde a essayé, ça ne marche pas J'ai dépassé ce stade. J'ai décidé de poser les bases d'un vrai... nouveau monde. Un monde plus injuste. Un monde plus intolérant, plus inamical. Un monde où il y auraittout le temps la guerre. Tout le temps la maladie. Ce monde... Mon monde... est le 5e Reich !","J'espèrais faire rêver ces nazis, je n'ai récolté que risée et quolibet."
 Ça suffit ! Je m'occuperai de vous plus tard. Mettez-les dans mon bureau ! Schnell!,Lâchez-moi. Vous me faites mal.
+Ça suffit ! Je m'occuperai de vous plus tard. Mettez-les dans mon bureau ! Schnell!,Qu'est-ce que c'est...
+Ça suffit ! Je m'occuperai de vous plus tard. Mettez-les dans mon bureau ! Schnell!,Ne vous inquiétez pas Dolores. J'ai été maladroit tout à l'heure Mais je vais nous sortir de là.
+Ça suffit ! Je m'occuperai de vous plus tard. Mettez-les dans mon bureau ! Schnell!,Charmant programme !
+Ça suffit ! Je m'occuperai de vous plus tard. Mettez-les dans mon bureau ! Schnell!,Hitler ! Je déteste ce type.
+Ça suffit ! Je m'occuperai de vous plus tard. Mettez-les dans mon bureau ! Schnell!,Bingo ! Je crois que j'ai ma petite idée. 
+Ça suffit ! Je m'occuperai de vous plus tard. Mettez-les dans mon bureau ! Schnell!,"À mon avis, on a une bonne demi-heure devant nous. C'est largement suffisant."
+Ça suffit ! Je m'occuperai de vous plus tard. Mettez-les dans mon bureau ! Schnell!,Déjà ?
 J'étais trop impatient de vous retrouver cher ami.,"Vous perdez votre temps, von Zimmel ! Je ne vous dirai rien."
 "Ça tombe bien, je ne vous ai rien demandé, mon cher.","Vous m'inspirez un sentiment de déjà-vu, professeur. Vos vieilles recettes, vos bureaux secrets, vos croix gammées, vos grottes de nazis tout ça est d'un banal."
 "Bien sûr. Et vous, par contre... Vous êtes reporter ! Ça se passe bien, ce reportage ?",Vous vous moquez.
 Vous faites des jolies photos ? M. Noël Flantier !,Humour nazi. Aucun intérêt.
 "Bienvenue dans mon laboratoire. Zantrax, Blue Devil. Déshabillez-le et attachez-le.","Pourquoi moi? Mon costume, chiens fascistes ! Vous ne respectez donc rien !"
 "Gute nacht, herr De la Bath","Carlotta. C'est donc ça, quelque chose de plus confortable ? "
+"Gute nacht, herr De la Bath",Ces oripeaux de la haine et du chaos ?
 Je ne suis pas Carlotta. Je suis Fraulein Frida.,"Pour moi, vous serez toujours Carlotta, Carlotta."
 "Pour moi, vous serez toujours Noël Flantier, Monsieur...",Carlotta. Carlotta. Carlotta.
 Flantier...,Carlotta...
@@ -533,32 +649,68 @@ Flantier...,Carlotta...
 Je parle de ce que vous avez réellement dans le ventre.,"Qu'allez-vous faire, von Zimmel ?"
 "Je vais ouvrir mon coffre-fort. Il y a quelques années, j'ai placé dans votre poitrail deux microfilms. L'un comportant une liste des collaborateurs français. L'autre, beaucoup plus important. Une liste de comptes en Suissequi donne accès à un fabuleux trésor de guerre.",Comment se fait-il que je ne m'en souvienne pas ?
 Grâce à ceci. C'est un élixir qui permet d'effacer la mémoire immédiate.,"Mon Dieu ! Ça y est, je m'en souviens. "
+Grâce à ceci. C'est un élixir qui permet d'effacer la mémoire immédiate.,Qu'allez-vous faire von Zimmel?
 "Je vais ouvrir mon coffre-fort. Je vais placer dans votre poitrail deux microfilms. L'un comportant une liste des collaborateurs français. L'autre, beaucoup plus important. Une liste de comptes en Suisse qui donne accès à un fabuleux trésor de guerre.",Comment voulez-vous que je ne m'en souvienne pas ? 
 Détachez-le !,Je vous l'avez dit que vous me le paieriez Payeriez. enfin je vous le dis!
+Détachez-le !,"Bien joué, Dolores. Désarmez-les et récupérez les microf..."
+Détachez-le !,C'est pas moi.
 "C'est qui, alors ?","J'ai vu, je sais qui c'est, mais je dirai rien."
 Friedrich... Mon fils. Pourquoi ? Pourquoi ? TUEZ-LES ! ,Allons-y.
 C'est bien Hubert. Encore.,"Tiens, un chauve ? Chauve qui peut."
 "Tenez, votre arc et vos flèches.","Vous avez raison. Allons-y, Dolores."
+"Tenez, votre arc et vos flèches.",La partie n'est peut-être pas encore perdue.
 "Allez-y, Hubert.",Je comprends pas ce qui s'est passé là.
+"Allez-y, Hubert.",Évidemment c'est un arc de bébé!
 Dépêchons-nous ! Ils sont en train de fuir Il faut faire quelque chose !,Vous avez raison. Suivons-les.
+Dépêchons-nous ! Ils sont en train de fuir Il faut faire quelque chose !,Ils sont là!
+Dépêchons-nous ! Ils sont en train de fuir Il faut faire quelque chose !,Bravo.Vous conduisez comme un homme.
 "Il faut absolument rattraper von Zimmel, Hubert. Nous n'avons pas le droit à l'échec.",Je vous faisais un compliment Dolores.
 Israël doit juger les anciens nazis. Comme elle a jugé Heichman,Bien sûr.
 C'est une responsabilité historique Israël doit montrer au monde qu'elle est une démocratie moderne ,Et comment !
+C'est une responsabilité historique Israël doit montrer au monde qu'elle est une démocratie moderne ,"Vous me bluffez, Dolores. "
+C'est une responsabilité historique Israël doit montrer au monde qu'elle est une démocratie moderne ,"Vous êtes déterminée, vous êtes courageuse, vous n'avez jamais flanché. Vous n'avez jamais détourné le regard. Vous êtes intrépide, vous êtes jolie, vous êtes élégante. "
+C'est une responsabilité historique Israël doit montrer au monde qu'elle est une démocratie moderne ,"C'est bien simple, j'ai l'impression d'avoir trouvé mon double féminin. "
+C'est une responsabilité historique Israël doit montrer au monde qu'elle est une démocratie moderne ,"Vous me plaisez, Dolores. Beaucoup. "
+C'est une responsabilité historique Israël doit montrer au monde qu'elle est une démocratie moderne ,Vous savez ce que j'aimerais...
 Non,Comment ça non? Je comprends pas.
 Vous ne me plaisez pas. C'est tout,"Justement, c'est ça que je ne comprends pas. Expliquez-moi. Je suis quand même un rempart contre la barbarie, un symbole de..."
 "Voilà vous êtes vieux, vous êtes prétentieux. Votre vision des femmes est archaïque.Vous êtes imbu de vous-même, supérieur, parfois à la limite du racisme. Vous vous habillez mal. Vous êtes infantile, vous n'êtes pas drôle. Je m'arrête là ?",Je m'habille mal ? 
+"Voilà vous êtes vieux, vous êtes prétentieux. Votre vision des femmes est archaïque.Vous êtes imbu de vous-même, supérieur, parfois à la limite du racisme. Vous vous habillez mal. Vous êtes infantile, vous n'êtes pas drôle. Je m'arrête là ?","Il fait très chaud, non ?"
+"Voilà vous êtes vieux, vous êtes prétentieux. Votre vision des femmes est archaïque.Vous êtes imbu de vous-même, supérieur, parfois à la limite du racisme. Vous vous habillez mal. Vous êtes infantile, vous n'êtes pas drôle. Je m'arrête là ?",C'est plaisant de vous voir sourire. C'est vrai vous avez un sourire charmant. On a déjà dû vous le dire.
+"Voilà vous êtes vieux, vous êtes prétentieux. Votre vision des femmes est archaïque.Vous êtes imbu de vous-même, supérieur, parfois à la limite du racisme. Vous vous habillez mal. Vous êtes infantile, vous n'êtes pas drôle. Je m'arrête là ?","Regardez ! Ils se sont arrêtés. Panne d'essence. J'en étais sûr. C'est le problème avec les Mercedes. Ha, ha, ha !"
+"Voilà vous êtes vieux, vous êtes prétentieux. Votre vision des femmes est archaïque.Vous êtes imbu de vous-même, supérieur, parfois à la limite du racisme. Vous vous habillez mal. Vous êtes infantile, vous n'êtes pas drôle. Je m'arrête là ?",Suivez Carlotta. Je m'occupe de von Zimmel.
 "N'oubliez pas Hubert, il nous le faut vivant.",J'en fais mon affaire.
+"N'oubliez pas Hubert, il nous le faut vivant.",Von Zimmel ! 
+"N'oubliez pas Hubert, il nous le faut vivant.","Ça suffit, Zimmel. "
+"N'oubliez pas Hubert, il nous le faut vivant.",C'est terminé ! Je vous arrête. 
+"N'oubliez pas Hubert, il nous le faut vivant.",Compris ? Vous... arrêté !
+"N'oubliez pas Hubert, il nous le faut vivant.",Où suis-je ?
+"N'oubliez pas Hubert, il nous le faut vivant.",Von Zim...
+"N'oubliez pas Hubert, il nous le faut vivant.",A... Ar... Arrêtez.
+"N'oubliez pas Hubert, il nous le faut vivant.",Von Zim...
+"N'oubliez pas Hubert, il nous le faut vivant.",Vous montez ?
 Ça va?,"Très bien, merci."
+Ça va?,Vous savez pas où sont mes vêtements ?
 Les collants verts ? Ils étaient tout déchirés on les a jetés.,Ah ? C'est fâcheux.
+Les collants verts ? Ils étaient tout déchirés on les a jetés.,Vous n'auriez pas quelques vêtements de rechange ?
 Il y aurait bien ceux du vieux jardinier. Mais je ne suis pas sûre que ce soit votre genre,"Merveilleux. Ce n'est pas le dernier cri, mais enfin cela fera amplement l'affaire."
+Il y aurait bien ceux du vieux jardinier. Mais je ne suis pas sûre que ce soit votre genre,Merci.
+Il y aurait bien ceux du vieux jardinier. Mais je ne suis pas sûre que ce soit votre genre,Excusez-moi. Le pépé qui était là a t-il passé un coup de téléphone?
 Oui.,Avec un peu de chance...
+Oui.,Du pur gribouillage. J'ai l'impression que tout ça ne veut rien dire
 "Pourquoi ne pas lui demander. Je l'ai entendu dire qu'il serait à 20h à Rio, au Corcovado.",Je peux téléphoner?
 Allez-y.,Merci.
+Allez-y.,C'est très urgent.
+Allez-y.,Ça sonne.
 Allô ?,"Dolores, c'est moi, Hubert."
 "Hubert, je me suis fait un sang d'encre.",C'est vrai ? Vous vous êtes inquiétée ?
 Je vous croyais mort.,"Ha, c'est gentil. "
+Je vous croyais mort.,Vous avez eu Carlotta ?
 Oui. Elle est enfermée.,"Écoutez-moi bien Dolores, Von Zimmel a rendez-vous avec quelqu'un je ne sais pas qui, au Corcovado à 20h."
+Oui. Elle est enfermée.,On se donne rendez-vous au bureau de Bill Trumendous. 
+Oui. Elle est enfermée.,Je l'appelle tout de suite
 À tout de suite Hubert. Soyez prudent.,Merci.
+À tout de suite Hubert. Soyez prudent.,"Oui Bill, c'est Hubert."
 "Ah Hubert, sacré, Hubert. Son of a bitch.","Oui, sans doute. Écoute, c'est par rapport à Dolores."
 Shalom...,Von Zimmel a rendez-vous au Corcovado à 20h.
 "Of course, cocksucker",Évidemment.
@@ -567,37 +719,59 @@ Ciao.,"Armand, c'est Hubert."
 Où EN êtes-vous dans votre enquête ?,Nous verrons ça à mon retour. Au revoir Armand.
 "À très vite, Hubert. Bonne chance .","Au revoir, Armand."
 [cacophonie],"Bien, la situation est clarifiée. "
+[cacophonie],"Maria Joao, vous venez de donner un sérieux coup de pouce à la France. Je ne l'oublierai pas "
+[cacophonie],"À ce propos, où est-ce que je pourrais trouver une voiture ?"
 Il y a toujours celle du vieux jardinier. Mais est-ce qu'elle vous plaira ?,Bill? 
+Il y a toujours celle du vieux jardinier. Mais est-ce qu'elle vous plaira ?,Dolores ?
 "Hello, motherfucker.","Oh, Bill ! Tu m'as fichu une de ces trouilles, mon vieux. "
+"Hello, motherfucker.","Bill, tu n'es pas bien ? Qu'est-ce que tu fabriques ?"
 I'm fucking great. A part peut-être cette chaleur.,Que se passe t-il Bill?
 Il se passe que Von Zimmel a eu peur du Mossad. Il a contacté la CIA pour le protéger en échange de précieuses informations.,"Habile, Bill."
+Il se passe que Von Zimmel a eu peur du Mossad. Il a contacté la CIA pour le protéger en échange de précieuses informations.,Mais pourquoi tu protégerais un SS ? Tu es Américain tu es contre les nazis.
 Ne bougez pas OSS 117 ou je l'occis.,"Libère-la, Bill. Je te rappelle que nos deux pays sont amis."
 "C'est marrant, j'ai l'impression que nous sommes amis que quand vous nous demandez de vous libérer.",Qu'est-ce que tu insinues ?
 "Oh, pardon. Vous vous êtes libérés tout seuls, c'est vrai.","Attention Bill, derrière toi, un Chinois."
 "Posez votre arme, OSS 117.",Voilà.
+"Posez votre arme, OSS 117.","Carlotta, il est encore temps de faire machine arrière. "
+"Posez votre arme, OSS 117.",Entre les chasseurs de Nazis et les frères de ce pauvre homme vous n'aurez aucun répit jusqu'à la fin de vos jours. 
+"Posez votre arme, OSS 117.",Je vous en conjure Carlotta. Réfléchissez.
+"Posez votre arme, OSS 117.","Je vous promet que si vous nous aidez, je m'engage à intervenir personnellement auprès du premier ministre de la France, M. Georges Pompidou."
+"Posez votre arme, OSS 117.","Pour que l'on trouve une solution à l'amiable. Et que l'on mette tout en oeuvre au niveau international, et ça peut aller très vite, pour que les nazis aient un pays à eux. "
+"Posez votre arme, OSS 117.",Comme Israël.
+"Posez votre arme, OSS 117.","Ravi de vous revoir, Dolores."
 "Moi aussi, j'ai prié pour que vous arriviez.",C'est vrai ? Ca fait deux fois que vous me dites des choses gentilles.
 "Deux fois, vous êtes sûr ?","Oui, la première fois, c'était au téléphone, vous savez quand..."
 Nous sommes pressés Hubert.,"Oui, vous avez raison."
 Venez.,"Allez-y, je vous rejoins."
+Venez.,"On se connaît, non ?"
 "Ouais. On a passé une nuit ensemble, sur la plage.",On a passé une nuit ensemble ? Ne dites pas ça. On a l'impression qu'on a... 
+"Ouais. On a passé une nuit ensemble, sur la plage.","Et là, tu... Vous faites quoi ?"
 Je mange une pomme d'amour. Tu veux croquer ?,Serpent ! Je ne mange pas de ce pain là !
+Je mange une pomme d'amour. Tu veux croquer ?,Ne vous inquiétez pas.
 Souvenez-vous de notre accord. J'ai besoin de lui vivant.,"Rendez-vous, von Zimmel. C'est terminé. Trumendous est mort Carlotta aussi ! Et le Chinois aussi !"
 "Il ne connaît pas, le chinois.","Oui, mais..."
 "Oh Mon Dieu, il va tirer !","Mais non mon petit, il bluffe."
 "D'ailleurs, au cas où vous ne l'auriez pas vu derrière le nazi il y a aussi un homme. Un homme comme les autres. Le nazi... n'a-t-il pas des yeux ? Le nazi... n'a-t-il pas des mains ?",Vous avez raison. Je crois qu'il est sincère. 
+"D'ailleurs, au cas où vous ne l'auriez pas vu derrière le nazi il y a aussi un homme. Un homme comme les autres. Le nazi... n'a-t-il pas des yeux ? Le nazi... n'a-t-il pas des mains ?",Cet homme est désespéré.
 "De la passion ? Et si vous nous piquez, ne saignons-nous pas ? Et si vous nous chatouillez, ne rions-nous pas ? Et si vous nous empoisonnez, NE MOURONS-NOUS PAS ?",Magnifique. C'est drôlement beau ce qu'il dit. Beau et terrible à la fois d'ailleurs.
 Je vais essayer de faire le tour.,Laissez-moi faire.
 "Adieu, OSS 117.","Ça suffit, von Zimmel ! Au nom de la France, je vous demande de me remetre les microfilms. Et au nom de l’Israël, je vous demande de nous suivre."
+"Adieu, OSS 117.",Qu'est-ce qu'il fait encore ?
 "Oh mon Dieu, il va monter pour sauter du bout du bras du Corcovado !",Pas si on l'empêche de sauter du bout du bras du Corcovado.
 "Mais Hubert, vos vertiges ?","Chacun doit   vaincre ses démons Dolores. Vous, c'est les nazis. Moi, c'est le trapèze."
+"Mais Hubert, vos vertiges ?","Arrêtez, von Zimmel. Rendez-vous !"
 "Rendez-vous ? Il va falloir trouver plus convaincant, mon petit ami. Encore faudrait-il que vous n'ayez pas vos vapeurs cette fois ci. Et que vous puissiez avancer malgré le vertige.",Non! Non! NON! C'était un accident ! Un banal accident de trapèze !
 "Adieu, OSS 117.",NON !
 Lâchez-moi. Lâchez-moi ! ,Pas cette fois-ci.
+Lâchez-moi. Lâchez-moi ! ,Willkommen in Israel Herr Professor
 "Bravo, Hubert. Bravo à l'espion, mais aussi bravo au trapéziste. Merci d'avoir sauvé la vie de von Zimmel.","Ce n'est rien. C'est ma fierté qu'une Israélienne me remercie d'avoir sauvé la vie d'un nazi, j'y vois comme un signe, Dolores. Pourquoi ne pas rêver un jour à une réconciliation entre juifs et nazis."
 "Il y a vraiment quelque chose que je ne m'explique pas, avec vous.","Ah oui, quoi donc ?"
 Ça !,"Joyeux, Noël."
+Ça !,"Bonjour, patron."
 "Bonjour, Hubert, et bravo ! Les microfilms récupérés, et qui plus est, sans verser d'argent. Chapeau bas.",On a bien fait de ne pas y envoyer les P&T.
+"Bonjour, Hubert, et bravo ! Les microfilms récupérés, et qui plus est, sans verser d'argent. Chapeau bas.",Vous vouliez me montrer un film ?
 "Non, non, c'est coincé. Faute à pas de chance.",D'accord
+"Non, non, c'est coincé. Faute à pas de chance.","Armand, je voulais vous parler... une petite chose me chiffonne."
 Oui?,"C'est sans doute rien mais... Cette liste de collaborateurs, il m'a semblé y voir votre nom."
 "On m'a dit ça, oui. Oui... Oh là là! Ah là là ! Quelle période! Quelle période ! Quelle période ! Mais enfin tout ça c'est le passé. Il faut que la France oublie pour repartir de l'avant.","Oui, sans doute. Me voilà rassuré."
 "Moi aussi, j'ai pensé à vous, Hubert.",Vous voulez dire que...
@@ -606,5 +780,9 @@ Oui?,"C'est sans doute rien mais... Cette liste de collaborateurs, il m'a sembl�
 "Oui, bien sûr. Bon, passons à autre chose. Mon cher ami Vous repartez en mission et qui plus est, en Chine. Où un certain M. Li a pris en otage 50 de nos ressortissants. Et ne veut négocier qu'avec vous.",J'accepte à une seule condition.
 Acceptée d'avance. Laquelle ?,Je choisis moi-même mon nom de couverture.
 "Pour rencontrer M. Li, il vaut mieux une bonne couverture.",Oui ! Sinon je me mettrais dans de beaux draps.
+"Pour rencontrer M. Li, il vaut mieux une bonne couverture.", M. Li en portefeuille.
+"Pour rencontrer M. Li, il vaut mieux une bonne couverture.","Wagon-Li ! Ha, ha, ha!"
 "Bon Hubert, je crois qu'on a fait le tour du sujet.",Oui... vous avez raison. Hum.
+"Bon Hubert, je crois qu'on a fait le tour du sujet.",Li-couchette.
+"Bon Hubert, je crois qu'on a fait le tour du sujet.","C'est très curieux, ça. Ma foi sans le vouloir, J'ai l'impression que j'ai fait de l’humour juif."
 "Allons bon, et qu'est-ce donc ?","Hum, ma foi, je... Je crois que c'est quand ce n'est pas rigolo et que... ça ne parle pas de saucisse."
